@@ -3,6 +3,15 @@ Some resources available to anyone who is thinking of entering the realm of SECR
 # Books
 Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013) Spatial mark-recapture Academic press (ISBN: 9780124059399) ([Bookdepository](http://www.bookdepository.com/Spatial-Capture-Recapture-J-Andrew-Royle-Richard-B-Chandler-Rahel-Sollmann-Beth-Gardner/9780124059399?ref=grid-view))
 
+# R resources
+Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R package version 2.10.0. http://CRAN.R-project.org/package=secr
+
+Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
+
+Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). scrbook R package. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
+
+Royle, J. A., K.U. Karanth, A.M. Gopalaswamy, and N. S. Kumar. (2009). SCRbayes R package. https://sites.google.com/site/spatialcapturerecapture/scrbayes-r-package
+
 # Papers
 ## Methodological
 
@@ -18,7 +27,7 @@ Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a compa
 
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
 
-Manning, T., Edge, W. D., & Wolff, J. O. (1995). *Evaluating population-size estimators: an empirical approach*. Journal of Mammalogy, 76(4), 1149–1158.
+Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size estimators: an empirical approach**. Journal of Mammalogy, 76(4), 1149–1158.
 
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
 
