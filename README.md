@@ -6,6 +6,10 @@ Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013) Spatial mark-rec
 # R resources
 Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R package version 2.10.0. http://CRAN.R-project.org/package=secr
 
+Fiske, I., Chandler, R. (2011). **unmarked: An R Package for Fitting Hierarchical Models of Wildlife Occurrence and Abundance**. Journal of Statistical Software, 43(10), 1-23. URL http://www.jstatsoft.org/v43/i10/
+
+Laake, J.L. (2013). **RMark: An R Interface for Analysis of Capture-Recapture Data with MARK**. AFSC Processed Rep 2013-01, 25p. Alaska Fish. Sci. Cent., NOAA, Natl. Mar. Fish. Serv., 7600 Sand Point Way NE, Seattle WA 98115
+
 Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
 
 Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). **scrbook R package**. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
