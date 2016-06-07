@@ -1,4 +1,4 @@
-Some resources available to anyone who is thinking of entering the realm of SECR or has already been assimilated. Some paper may not be exclicitly mark-recapture oriented, but dwell the same relm.
+This will hopefully grow to a comprehensive resources reference to anyone who is thinking of entering the realm of SECR or has already been assimilated. Some paper may not be explicitly mark-recapture oriented, but dwell in the same relm.
 
 # Books
 Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013) Spatial mark-recapture Academic press (ISBN: 9780124059399) ([Bookdepository](http://www.bookdepository.com/Spatial-Capture-Recapture-J-Andrew-Royle-Richard-B-Chandler-Rahel-Sollmann-Beth-Gardner/9780124059399?ref=grid-view))
@@ -8,9 +8,9 @@ Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R p
 
 Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
 
-Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). scrbook R package. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
+Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). **scrbook R package**. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
 
-Royle, J. A., K.U. Karanth, A.M. Gopalaswamy, and N. S. Kumar. (2009). SCRbayes R package. https://sites.google.com/site/spatialcapturerecapture/scrbayes-r-package
+Royle, J. A., Karanth, K. U., Gopalaswamy,  A. M., Kumar, N. S. (2009). **SCRbayes R package**. https://sites.google.com/site/spatialcapturerecapture/scrbayes-r-package
 
 # Papers
 ## Methodological
