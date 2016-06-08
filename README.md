@@ -1,7 +1,9 @@
 This will hopefully grow to a comprehensive resources reference to anyone who is thinking of entering the realm of SECR or has already been assimilated. Some paper may not be explicitly mark-recapture oriented, but dwell in the same relm.
 
 # Books
-Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013) Spatial mark-recapture Academic press (ISBN: 9780124059399) ([Bookdepository](http://www.bookdepository.com/Spatial-Capture-Recapture-J-Andrew-Royle-Richard-B-Chandler-Rahel-Sollmann-Beth-Gardner/9780124059399?ref=grid-view))
+Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013). **Spatial mark-recapture**. Academic press (ISBN: 9780124059399) ([Bookdepository](http://www.bookdepository.com/Spatial-Capture-Recapture-J-Andrew-Royle-Richard-B-Chandler-Rahel-Sollmann-Beth-Gardner/9780124059399?ref=grid-view))
+
+Williams, B., Nichols, J., & Conroy, M. (2002). **Analysis and management of animal populations. Modeling, estimation, and decision making**. Academic press. Retrieved from http://www.elsevier.com/books/analysis-and-management-of-animal-populations/williams/978-0-12-754406-9
 
 # R resources
 Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R package version 2.10.0. http://CRAN.R-project.org/package=secr
@@ -39,6 +41,24 @@ Royle, A., Nichols, J. D., Karanth, K. U., & Gapalaswamy, A. M. (2009). **A hier
 
 Tallmon, D. A., & Mills, L. S. (2004). **Edge effects and isolation: red-backed voles revisited**. Conservation Biology, 18(6), 1658–1664. [http://doi.org/10.1111/j.1523-1739.2004.00439.x](http://doi.org/10.1111/j.1523-1739.2004.00439.x)
 
+Wilton, C. M., Beringer, J., Puckett, E. E., Eggert, L. S., & Belant, J. L. (2016). **Spatiotemporal factors affecting detection of black bears during noninvasive capture-recapture surveys**. Journal of Mammalogy, 97(1), 266–273. http://doi.org/10.1093/jmammal/gyv176
+
+White, G. C. (2002). **Discussion comments on: The use of auxiliary variables in capture-recapture modelling. An overview**. Journal of Applied Statistics, 29(1-4), 103–106. http://doi.org/10.1080/02664760120108476
+
+White, G. C., & Burnham, K. P. (1999). **Program MARK: survival estimation from populations of marked animals**. Bird Study, 46(sup001), S120–S139. http://doi.org/10.1080/00063659909477239
+
+Whittington, J., & Sawaya, M. A. (2015). **A comparison of grizzly bear demographic parameters estimated from non-spatial and spatial open population capture-recapture models**. PLoS ONE, 10(7), e0134446. http://doi.org/10.1371/journal.pone.0134446
+
+Wiegand, T., Revilla, E., & Knauer, F. (2004). **Dealing with uncertainty in spatially explicit population models**. Biodiversity and Conservation, 13(1), 53–78. http://doi.org/10.1023/B:BIOC.0000004313.86836.ab
+
+Wilson, K. R., & Anderson, D. R. (1985). **Evaluation of a density estimator based on a trapping web and distance sampling theory**. Ecology. http://doi.org/10.2307/1939171
+
+Wilson, K. R., & Anderson, D. R. (1985). **Evaluation of two density estimators of small mammal population size**. Journal of Mammalogy, 66(1), 13–21. http://doi.org/10.2307/1380951
+
+Tioli, S., Cagnacci, F., Stradiotto, A., & Rizzoli, A. (2009). **Edge effect on density estimates of a radiotracked population of yellow-necked mice**. The Journal of Wildlife Management, 73(2), 184–190. http://doi.org/10.2193/2007-324
+
+Xu, C., Sun, D., & He, C. (2014). **Objective Bayesian analysis for a capture-recapture model**. Annals of the Institute of Statistical Mathematics, 66(2), 245–278. http://doi.org/10.1007/s10463-013-0413-1
+
 Yang, H., & Huggins, R. (2003). **The estimation of the size of an open population using local estimating equations**. Statistica Sinica, 13, 673–689. [http://www.jstor.org/stable/3695514](http://www.jstor.org/stable/3695514)
 
 Yip, P. S., Zhou, Y., Lin, D. Y., & Fang, X. Z. (1999). **Estimation of population size based on additive hazards models for continuous-time recapture experiments**. Biometrics, 55(3), 904–908. [http://doi.org/10.1111/j.0006-341X.1999.00904.x](http://doi.org/10.1111/j.0006-341X.1999.00904.x)
@@ -52,5 +72,11 @@ Zipkin, E. F., Thorson, J. T., See, K., Lynch, H. J., Campbell Grant, E. H., Kan
 Broekhuis, F. & Gopalaswamy, A. M. (2016). **Counting Cats: Spatially Explicit Population Estimates of Cheetah (_Acinonyx jubatus_) Using Unstructured Sampling Data** [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875)
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
+
+Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with camera traps: Problems with current designs and recommendations for future studies**. Biological Conservation, 159, 109–118. http://doi.org/10.1016/j.biocon.2012.12.009
+
+Trolle, M., & Kéry, M. (2003). **Estimation of ocelot density in the Pantanal using capture-recapture analysis of camera-trapping data**. Journal of Mammalogy, 84(2), 607–614. http://doi.org/10.1644/1545-1542(2003)084<0607:EOODIT>2.0.CO;2
+
+Villela, D. A. M., Codeço, C. T., Figueiredo, F., Garcia, G. A., Maciel-de-Freitas, R., & Struchiner, C. J. (2015). **A Bayesian hierarchical model for estimation of abundance and spatial density of *Aedes aegypti***. PLoS ONE, 10(4), e0123794. http://doi.org/10.1371/journal.pone.0123794
 
 Xiao, W., Feng, L., Mou, P. Miquelle, D. G., Hebblewhite, M., Goldberg, J. F., Robinson, H. S., Zhao, X., Zhou, B., Wang, T., Ge, J. (2016) **Estimating abundance and density of Amur tigers along the Sino-Russian border** [http://dx.doi.org/10.1111/1749-4877.12210](http://dx.doi.org/10.1111/1749-4877.12210)
