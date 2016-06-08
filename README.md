@@ -71,7 +71,11 @@ Zipkin, E. F., Thorson, J. T., See, K., Lynch, H. J., Campbell Grant, E. H., Kan
 
 Broekhuis, F. & Gopalaswamy, A. M. (2016). **Counting Cats: Spatially Explicit Population Estimates of Cheetah (_Acinonyx jubatus_) Using Unstructured Sampling Data** [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875)
 
+Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
+
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
+
+Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key Largo woodrat abundance using spatially explicit capture-recapture and trapping point transects**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.651
 
 Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with camera traps: Problems with current designs and recommendations for future studies**. Biological Conservation, 159, 109–118. http://doi.org/10.1016/j.biocon.2012.12.009
 
