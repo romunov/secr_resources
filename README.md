@@ -33,7 +33,7 @@ Efford, M. (2004). **Density estimation in live-trapping studies**. Oikos, 106, 
 
 Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a comparison of methods**. Acta Theriologica, 35(3-4), 357–363.
 
-Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
+Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies**. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
 
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
 
