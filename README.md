@@ -1,4 +1,4 @@
-This will hopefully grow to a comprehensive resources reference to anyone who is thinking of entering the realm of SECR or has already been assimilated. Some paper may not be explicitly mark-recapture oriented, but dwell in the same relm.
+This will hopefully grow to a comprehensive resources reference to anyone who is thinking of entering the realm of SECR. Some paper may not be explicitly mark-recapture oriented, but are closely knit with the methods.
 
 # Books
 Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013). **Spatial mark-recapture**. Academic press (ISBN: 9780124059399) ([Bookdepository](http://www.bookdepository.com/Spatial-Capture-Recapture-J-Andrew-Royle-Richard-B-Chandler-Rahel-Sollmann-Beth-Gardner/9780124059399?ref=grid-view))
@@ -21,15 +21,19 @@ Royle, J. A., Karanth, K. U., Gopalaswamy,  A. M., Kumar, N. S. (2009). **SCRbay
 # Papers
 ## Methodological
 
-Augustine, B. C., Royle, J. A., Kelly, M. J., Satter, C. B., Alonso, R. S., & Crooks, K. R. (2016). **Spatial Capture-recapture with Partial Identity: An Application to Camera Traps**. [http://biorxiv.org/content/early/2016/06/03/056804](http://biorxiv.org/content/early/2016/06/03/056804) ([code](https://github.com/benaug/SCRRcpp))
+Augustine, B. C., Royle, J. A., Kelly, M. J., Satter, C. B., Alonso, R. S., & Crooks, K. R. (2016). **Spatial capture-recapture with partial identity: An application to camera traps**. bioRxiv. http://doi.org/10.1101/056804 ([code](https://github.com/benaug/SCRRcpp))
 
 Benhamou, S. (1988). **Analyzing spatial relationships from trapping data. Journal of Mammalogy**, 69(4), 828–831. [http://doi.org/10.2307/1381641](http://doi.org/10.2307/1381641)
 
 Boulanger, J., & McLellan, B. (2001). **Corrigendum: Closure violation in DNA-based mark-recapture estimation of grizzly bear populations**. Canadian Journal of Zoology, 79(8), 1532. [http://doi.org/10.1139/z01-121](http://doi.org/10.1139/z01-121)
 
+Borchers, D., Distiller, G., Foster, R., Harmsen, B., & Milazzo, L. (2014). **Continuous-time spatially explicit capture-recapture models, with an application to a jaguar camera-trap survey**. Methods in Ecology and Evolution, 5(7), 656–665. http://doi.org/10.1111/2041-210X.12196
+
 Efford, M. (2004). **Density estimation in live-trapping studies**. Oikos, 106, 598–610. [http://doi.org/10.1111/j.0030-1299.2004.13043.x](http://doi.org/10.1111/j.0030-1299.2004.13043.x)
 
 Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a comparison of methods**. Acta Theriologica, 35(3-4), 357–363.
+
+Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
 
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
 
@@ -38,6 +42,18 @@ Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size es
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
 
 Royle, A., Nichols, J. D., Karanth, K. U., & Gapalaswamy, A. M. (2009). **A hierarchical model for estimating density in camera-trap studies**. Journal of Applied Ecology, 46, 118–127. [http://doi.org/10.1111/j.1365-2664.2008.01578.x](http://doi.org/10.1111/j.1365-2664.2008.01578.x)
+
+Sollmann, R., Tôrres, N. M., Furtado, M. M., De Almeida Jácomo, A. T., Palomares, F., Roques, S., & Silveira, L. (2013). **Combining camera-trapping and noninvasive genetic data in a spatial capture-recapture framework improves density estimates for the jaguar**. Biological Conservation, 167, 242–247. http://doi.org/10.1016/j.biocon.2013.08.003
+
+Sollmann, R., Gardner, B., & Belant, J. L. (2012). **How does spatial study design influence density estimates from spatial capture-recapture models**? PLoS ONE, 7(4), 1–8. http://doi.org/10.1371/journal.pone.0034575
+
+Speed, C. W., Meekan, M. G., & Bradshaw, C. J. A. (2007). **Spot the match - wildlife photo-identification using information theory**. Frontiers in Zoology, 4, 2. http://doi.org/10.1186/1742-9994-4-2
+
+Spehar, S. N., Loken, B., Rayadin, Y., & Royle, J. A. (2015). **Comparing spatial capture-recapture modeling and nest count methods to estimate orangutan densities in the Wehea Forest, East Kalimantan, Indonesia**. Biological Conservation, 191(February 2016), 185–193. http://doi.org/10.1016/j.biocon.2015.06.013
+
+Sun, C. C., Fuller, A. K., & Andrew Royle, J. (2014). **Trap configuration and spacing influences parameter estimates in spatial capture-recapture models**. PLoS ONE, 9(2), 1–9. http://doi.org/10.1371/journal.pone.0088025
+
+Thompson, C. M., Royle, J. A., & Garner, J. D. (2012). **A framework for inference about carnivore density from unstructured spatial sampling of scat using detector dogs**. Journal of Wildlife Management, 76(4), 863–871. http://doi.org/10.1002/jwmg.317
 
 Tallmon, D. A., & Mills, L. S. (2004). **Edge effects and isolation: red-backed voles revisited**. Conservation Biology, 18(6), 1658–1664. [http://doi.org/10.1111/j.1523-1739.2004.00439.x](http://doi.org/10.1111/j.1523-1739.2004.00439.x)
 
@@ -69,6 +85,10 @@ Zipkin, E. F., Thorson, J. T., See, K., Lynch, H. J., Campbell Grant, E. H., Kan
 
 ## Application
 
+Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat population density on the Etna volcano, Italy: A comparison of density estimation methods**. Journal of Zoology, 293(4), 252–261. http://doi.org/10.1111/jzo.12141
+
+Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
+
 Broekhuis, F. & Gopalaswamy, A. M. (2016). **Counting Cats: Spatially Explicit Population Estimates of Cheetah (_Acinonyx jubatus_) Using Unstructured Sampling Data** [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875)
 
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
@@ -76,6 +96,8 @@ Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating th
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
 
 Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key Largo woodrat abundance using spatially explicit capture-recapture and trapping point transects**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.651
+
+Sugimoto, T., Nagata, J., Aramilev, V. V., & McCullough, D. R. (2012). **Population size estimation of Amur tigers in Russian Far East using noninvasive genetic samples**. Journal of Mammalogy, 93(1), 93–101. http://doi.org/10.1644/10-MAMM-A-368.1
 
 Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with camera traps: Problems with current designs and recommendations for future studies**. Biological Conservation, 159, 109–118. http://doi.org/10.1016/j.biocon.2012.12.009
 
