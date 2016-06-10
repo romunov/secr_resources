@@ -103,8 +103,6 @@ Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat po
 
 Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
 
-Broekhuis, F. & Gopalaswamy, A. M. (2016). **Counting Cats: Spatially Explicit Population Estimates of Cheetah (_Acinonyx jubatus_) Using Unstructured Sampling Data** [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875)
-
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
 
 Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
