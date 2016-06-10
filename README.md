@@ -27,7 +27,21 @@ Benhamou, S. (1988). **Analyzing spatial relationships from trapping data. Journ
 
 Boulanger, J., & McLellan, B. (2001). **Corrigendum: Closure violation in DNA-based mark-recapture estimation of grizzly bear populations**. Canadian Journal of Zoology, 79(8), 1532. [http://doi.org/10.1139/z01-121](http://doi.org/10.1139/z01-121)
 
+Borchers, D. L., & Efford, M. G. (2008). **Spatially explicit maximum likelihood methods for capture-recapture studies**. Biometrics, 64(2), 377–385. http://doi.org/j.1541-0420.2007.00927.x
+
+Borchers, D. (2012). **A non-technical overview of spatially explicit capture-recapture models**. Journal of Ornithology. http://doi.org/10.1007/s10336-010-0583-z
+
+Borchers, D. L., & Fewster, R. M. (2013). **Spatial capture-recapture models**. Statistical Science, 1–20. http://doi.org/10.1016/B978-0-12-405939-9.00020-7
+
 Borchers, D., Distiller, G., Foster, R., Harmsen, B., & Milazzo, L. (2014). **Continuous-time spatially explicit capture-recapture models, with an application to a jaguar camera-trap survey**. Methods in Ecology and Evolution, 5(7), 656–665. http://doi.org/10.1111/2041-210X.12196
+
+Bozarth, C. A., Gardner, B., Rockwood, L. L., & Jesús, E. (2015). **Using fecal DNA and spatial capture-recapture to characterize a recent coyote colonization**. Northeastern Naturalist, 22(1), 144–162. http://doi.org/10.1656/045.022.0124
+
+Chandler, R. B., Royle, J. A., & King, D. I. (2011). **Inference about density and temporary emigration in unmarked populations**. Ecology, 92(7)(7), 1429–1435. http://doi.org/10.1890/10-2433.1
+
+Chandler, R. B., & Andrew Royle, J. (2013). **Spatially explicit models for inference about density in unmarked or partially marked populations**. Annals of Applied Statistics, 7(2), 936–954. http://doi.org/10.1214/12-AOAS610
+
+Chandler, R. B., & Clark, J. D. (2014). **Spatially explicit integrated population models**. Methods in Ecology and Evolution, 5(12), 1351–1360. http://doi.org/10.1111/2041-210X.12153
 
 Efford, M. (2004). **Density estimation in live-trapping studies**. Oikos, 106, 598–610. [http://doi.org/10.1111/j.0030-1299.2004.13043.x](http://doi.org/10.1111/j.0030-1299.2004.13043.x)
 
@@ -90,6 +104,10 @@ Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat po
 Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
 
 Broekhuis, F. & Gopalaswamy, A. M. (2016). **Counting Cats: Spatially Explicit Population Estimates of Cheetah (_Acinonyx jubatus_) Using Unstructured Sampling Data** [http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0153875)
+
+Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
+
+Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
 
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
 
