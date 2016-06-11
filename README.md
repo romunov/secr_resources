@@ -5,7 +5,11 @@ Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013). **Spatial mark-
 
 Williams, B., Nichols, J., & Conroy, M. (2002). **Analysis and management of animal populations. Modeling, estimation, and decision making**. Academic press. Retrieved from http://www.elsevier.com/books/analysis-and-management-of-animal-populations/williams/978-0-12-754406-9
 
-# R resources
+# (R) resources
+Cox, M. J., Borcher, D. L., Kelly, N., Borchers, D. L., & Kelly, N. (2013). **nupoint: An R package for density estimation from point transects in the presence of nonuniform animal density**. Methods in Ecology and Evolution, 4(6), 1–18. http://doi.org/10.1111/2041-210X.12058
+
+Efford, M. G., Dawson, D. K., & Robbins, C. S. (2004). **DENSITY: Software for analysing capture-recapture data from passive detector arrays**. Animal Biodiversity and Conservation, 27(1), 217–228. http://doi.org/1
+
 Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R package version 2.10.0. http://CRAN.R-project.org/package=secr
 
 Fiske, I., Chandler, R. (2011). **unmarked: An R Package for Fitting Hierarchical Models of Wildlife Occurrence and Abundance**. Journal of Statistical Software, 43(10), 1-23. URL http://www.jstatsoft.org/v43/i10/
@@ -43,13 +47,47 @@ Chandler, R. B., & Andrew Royle, J. (2013). **Spatially explicit models for infe
 
 Chandler, R. B., & Clark, J. D. (2014). **Spatially explicit integrated population models**. Methods in Ecology and Evolution, 5(12), 1351–1360. http://doi.org/10.1111/2041-210X.12153
 
+Crimmins, S. M., Walleser, L. R., Hertel, D. R., McKann, P. C., Rohweder, J. J., & Thogmartin, W. E. (2015). **Relating mesocarnivore relative abundance to anthropogenic land-use with a hierarchical spatial count model**. Ecography, (May), n/a–n/a. http://doi.org/10.1111/ecog.01179
+
+Davidson, G. A., Clark, D. A., Johnson, B. K., Waits, L. P., & Adams, J. R. (2014). **Estimating cougar densities in northeast Oregon using conservation detection dogs**. The Journal of Wildlife Management, 78(6), 1104–1114. http://doi.org/10.1002/jwmg.758
+
+Distiller, G., & Borchers, D. L. (2015). **A spatially explicit capture-recapture estimator for single-catch traps**. Ecology and Evolution, 5(21), 5075–5087. http://doi.org/10.1002/ece3.1748
+
+Dorazio, R. M. (2013). **Bayes and empirical bayes estimators of abundance and density from spatial capture-recapture data**. PLoS ONE, 8(12), 1–12. http://doi.org/10.1371/journal.pone.0084017
+
+Dorazio, R. M. (2014). **Accounting for imperfect detection and survey bias in statistical analysis of presence-only data**. Global Ecology and Biogeography, n/a–n/a. http://doi.org/10.1111/geb.12216
+
+Dorazio, R. M. (2016). **Bayesian data analysis in population ecology: motivations, methods, and benefits**. Population Ecology, 58(1), 31–44. http://doi.org/10.1007/s10144-015-0503-4
+
+Dutta, T., Sharma, S., Maldonado, J. E., Wood, T. C., Panwar, H. S., & Seidensticker, J. (2013). **Fine-scale population genetic structure in a wide-ranging carnivore, the leopard (Panthera pardus fusca) in central India**. Diversity and Distributions, 19(7), 760–771. http://doi.org/10.1111/ddi.12024
+
 Efford, M. (2004). **Density estimation in live-trapping studies**. Oikos, 106, 598–610. [http://doi.org/10.1111/j.0030-1299.2004.13043.x](http://doi.org/10.1111/j.0030-1299.2004.13043.x)
+
+Efford, M. G., & Dawson, D. K. (2009). **Effect of distance-related heterogeneity on population size estimates from point counts**. The Auk, 126(1), 100–111. http://doi.org/10.1525/auk.2009.07197
+
+Efford, M. G., Borchers, D. L., & Byron, A. E. (2009). **Density estimation by spatially explicit capture-recapture: Likelihood-based methods**. Environmental and Ecological Statistics. http://doi.org/10.1007/978-0-387-78151-8
+
+Efford, M. G., Dawson, D. K., & Borchers, D. L. (2009). **Population density estimated from locations of individuals on a passive detector array**. Ecology, 90(10), 2676–2682. http://doi.org/10.1890/08-1735.1
+
+Efford, M. G. (2011). **Estimation of population density by spatially explicit capture-recapture analysis of data from area searches**. Ecology, 92(12), 2202–2207. http://doi.org/10.1890/11-0332.1
+
+Efford, M. G., Borchers, D. L., & Mowat, G. (2013). **Varying effort in capture-recapture studies**. Methods in Ecology and Evolution, 4(7), 629–636. http://doi.org/10.1111/2041-210X.12049
+
+Efford, M. G., & Fewster, R. M. (2013). **Estimating population size by spatially explicit capture-recapture**. Oikos, 122(6), 918–928. http://doi.org/10.1111/j.1600-0706.2012.20440.x
+
+Efford, M., & Mowat, G. (2013). **Compensatory heterogeneity in spatially explicit capture− recapture data**. Ecology, 95(5), 1341–1348. http://doi.org/10.1890/13-1497.1
+
+Efford, M. G. (2014). **Bias from heterogeneous usage of space in spatially explicit capture-recapture analyses**. Methods in Ecology and Evolution, 5(7), 599–602. http://doi.org/10.1111/2041-210X.12169
+
+Efford, M. G., Dawson, D. K., Jhala, Y. V., & Qureshi, Q. (2015). **Density-dependent home-range size revealed by spatially explicit capture-recapture**. Ecography, n/a–n/a. http://doi.org/10.1111/ecog.01511
 
 Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a comparison of methods**. Acta Theriologica, 35(3-4), 357–363.
 
 Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies**. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
 
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
+
+Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to violations of the closure assumption**. Ecology, 80(8), 2517–2525. Retrieved from http://www.jstor.org/stable/177237
 
 Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size estimators: an empirical approach**. Journal of Mammalogy, 76(4), 1149–1158.
 
