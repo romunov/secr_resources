@@ -81,6 +81,8 @@ Efford, M. G. (2014). **Bias from heterogeneous usage of space in spatially expl
 
 Efford, M. G., Dawson, D. K., Jhala, Y. V., & Qureshi, Q. (2015). **Density-dependent home-range size revealed by spatially explicit capture-recapture**. Ecography, n/a–n/a. http://doi.org/10.1111/ecog.01511
 
+Foster, R. J., & Harmsen, B. J. (2012). **A critique of density estimation from camera-trap data**. Journal of Wildlife Management, 76(2), 224–236. http://doi.org/10.1002/jwmg.275
+
 Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a comparison of methods**. Acta Theriologica, 35(3-4), 357–363.
 
 Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies**. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
