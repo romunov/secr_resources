@@ -14,6 +14,10 @@ Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R p
 
 Fiske, I., Chandler, R. (2011). **unmarked: An R Package for Fitting Hierarchical Models of Wildlife Occurrence and Abundance**. Journal of Statistical Software, 43(10), 1-23. URL http://www.jstatsoft.org/v43/i10/
 
+Gopalaswamy, A. M., Royle, J. A., Hines, J. E., Singh, P., Jathanna, D., Kumar, N. S., & Karanth, K. U. (2012). **Program SPACECAP: Software for estimating animal density using spatially explicit capture-recapture models**. Methods in Ecology and Evolution, 3(6), 1067–1072. http://doi.org/10.1111/j.2041-210X.2012.00241.x
+
+Ivan, J. S., & Newkirk, E. S. (2016). **Cpw Photo Warehouse: A custom database to facilitate archiving, identifying, summarizing and managing photo data collected from camera traps**. Methods in Ecology and Evolution, 7(4), 499–504. http://doi.org/10.1111/2041-210X.12503
+
 Laake, J.L. (2013). **RMark: An R Interface for Analysis of Capture-Recapture Data with MARK**. AFSC Processed Rep 2013-01, 25p. Alaska Fish. Sci. Cent., NOAA, Natl. Mar. Fish. Serv., 7600 Sand Point Way NE, Seattle WA 98115
 
 Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
@@ -87,7 +91,17 @@ Galindo-Leal, C. (1990). **Live-trapping vs. snap-trapping of deer mice: a compa
 
 Gardner, B., Royle, J. A., & Wegan, M. T. (2009). **Hierarchical models for estimating density from DNA mark-recapture studies**. Ecology, 90(4), 1106–1115. http://doi.org/10.1890/07-2112.1
 
+Gerber, B. D., Karpanty, S. M., & Kelly, M. J. (2012). **Evaluating the potential biases in carnivore capture-recapture studies associated with the use of lure and varying density estimation techniques using photographic-sampling data of the Malagasy civet**. Population Ecology, 54(1), 43–54. http://doi.org/10.1007/s10144-011-0276-3
+
+Gerber, B. D., & Parmenter, R. R. (2015). **Spatial capture-recapture model performance with known small-mammal densities**. Ecological Applications, 25(3), 695–705. http://doi.org/10.1890/14-0960.1.sm
+
+Gimenez, O., Choquet, R., Lamor, L., Scofield, P., Fletcher, D., Lebreton, J.-D., & Pradel, R. (2005). **Efficient profile-likelihood confidence intervals for capture-recapture models**. Journal of Agricultural, Biological, and Environmental Statistics, 10(2), 184–196. http://doi.org/10.1198/108571105X46462
+
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
+
+Ivan, J. S., White, G. C., & Shenk, T. M. (2013). **Using auxiliary telemetry information to estimate animal density from capture-recapture data**. Ecology, 94(4), 809–816. http://doi.org/10.1890/12-0101.1
+
+Ivan, J. S., White, G. C., & Shenk, T. M. (2013). **Using simulation to compare methods for estimating density from capture-recapture data**. Ecology, 94(4), 817–826. http://doi.org/10.1890/12-0102.1
 
 Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to violations of the closure assumption**. Ecology, 80(8), 2517–2525. Retrieved from http://www.jstor.org/stable/177237
 
@@ -148,6 +162,8 @@ Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit 
 Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
 
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
+
+Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
 
