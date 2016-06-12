@@ -105,6 +105,8 @@ Ivan, J. S., White, G. C., & Shenk, T. M. (2013). **Using simulation to compare 
 
 Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to violations of the closure assumption**. Ecology, 80(8), 2517–2525. Retrieved from http://www.jstor.org/stable/177237
 
+Kéry, M., Gardner, B., Stoeckle, T., Weber, D., & Royle, J. A. (2010). **Use of spatial capture-recapture modeling and DNA data to estimate densities of elusive animals**. Conservation Biology, 25(2), 356–364. http://doi.org/10.1111/j.1523-1739.2010.01616.x
+
 Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size estimators: an empirical approach**. Journal of Mammalogy, 76(4), 1149–1158.
 
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
@@ -164,6 +166,10 @@ Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobca
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
 
 Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
+
+Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estimation of tiger densities in the tropical dry forests of Panna, Central India, using photographic capture–recapture sampling**. Animal Conservation, 7(3), 285–290. http://doi.org/10.1017/S1367943004001477
+
+Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
 
