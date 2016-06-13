@@ -20,6 +20,8 @@ Ivan, J. S., & Newkirk, E. S. (2016). **Cpw Photo Warehouse: A custom database t
 
 Laake, J.L. (2013). **RMark: An R Interface for Analysis of Capture-Recapture Data with MARK**. AFSC Processed Rep 2013-01, 25p. Alaska Fish. Sci. Cent., NOAA, Natl. Mar. Fish. Serv., 7600 Sand Point Way NE, Seattle WA 98115
 
+McClintock, B. T. (2015). **Multimark: An R package for analysis of capture-recapture data consisting of multiple “noninvasive” marks**. Ecology and Evolution, 5(21), 4920–4931. http://doi.org/10.1002/ece3.1676
+
 Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
 
 Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). **scrbook R package**. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
@@ -109,7 +111,11 @@ Kéry, M., Gardner, B., Stoeckle, T., Weber, D., & Royle, J. A. (2010). **Use of
 
 Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size estimators: an empirical approach**. Journal of Mammalogy, 76(4), 1149–1158.
 
+Manning, J. a, & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. http://doi.org/10.1111/j.2041-210X.2010.00041.x
+
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
+
+Royle, J. A., & Young, K. V. (2008). **A hierarchical model for spatial capture recapture data**. Ecology, 89(8), 2281–2289. http://doi.org/10.1890/07-0601.1
 
 Royle, A., Nichols, J. D., Karanth, K. U., & Gapalaswamy, A. M. (2009). **A hierarchical model for estimating density in camera-trap studies**. Journal of Applied Ecology, 46, 118–127. [http://doi.org/10.1111/j.1365-2664.2008.01578.x](http://doi.org/10.1111/j.1365-2664.2008.01578.x)
 
