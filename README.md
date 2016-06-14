@@ -22,6 +22,12 @@ Laake, J.L. (2013). **RMark: An R Interface for Analysis of Capture-Recapture Da
 
 McClintock, B. T. (2015). **Multimark: An R package for analysis of capture-recapture data consisting of multiple “noninvasive” marks**. Ecology and Evolution, 5(21), 4920–4931. http://doi.org/10.1002/ece3.1676
 
+Moya, Ó., Mansilla, P.-L., Madrazo, S., Igual, J.-M., Rotger, A., Romano, A., & Tavecchia, G. (2015). **APHIS: A new software for photo-matching in ecological studies**. Ecological Informatics, 27, 64–70. http://doi.org/10.1016/j.ecoinf.2015.03.003
+
+Muscarella, R., Galante, P. J., Soley-Guardia, M., Boria, R. A., Kass, J. M., Uriarte, M., & Anderson, R. P. (2014). **ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models**. Methods in Ecology and Evolution, 5(11), 1198–1205. http://doi.org/10.1111/2041-210X.12261
+
+Nguyen, T., Sinha, A., Gholami, S., Plumptre, A. J., Joppa, L. N., Tambe, M., … Beale, C. M. (2016). **CAPTURE: A New Predictive Anti-Poaching Tool for Wildlife Protection**. Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS).
+
 Niedballa, J., Sollmann, R., Courtiol, A., & Wilting, A. (2016). **camtrapR: an R package for efficient camera trap data management**. Methods in Ecology and Evolution. http://doi.org/10.1111/2041-210X.12600
 
 Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). **scrbook R package**. https://sites.google.com/site/spatialcapturerecapture/scrbook-r-package
@@ -109,6 +115,8 @@ Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to viola
 
 Kéry, M., Gardner, B., Stoeckle, T., Weber, D., & Royle, J. A. (2010). **Use of spatial capture-recapture modeling and DNA data to estimate densities of elusive animals**. Conservation Biology, 25(2), 356–364. http://doi.org/10.1111/j.1523-1739.2010.01616.x
 
+Marques, T. A., Thomas, L., & Royle, J. A. (2011). **A hierarchical model for spatial capture-recapture data: comment**. Ecology, 92(2), 526–528.
+
 Manning, T., Edge, W. D., & Wolff, J. O. (1995). **Evaluating population-size estimators: an empirical approach**. Journal of Mammalogy, 76(4), 1149–1158.
 
 Manning, J. a, & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. http://doi.org/10.1111/j.2041-210X.2010.00041.x
@@ -178,6 +186,8 @@ Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estim
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
+
+Pesenti, E., & Zimmermann, F. (2013). **Density estimations of the Eurasian lynx (<i>Lynx lynx</i>) in the Swiss Alps**. Journal of Mammalogy, 94(1), 73–81. http://doi.org/10.1644/11-MAMM-A-322.1
 
 Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key Largo woodrat abundance using spatially explicit capture-recapture and trapping point transects**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.651
 
