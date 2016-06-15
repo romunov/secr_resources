@@ -123,9 +123,38 @@ Manning, J. a, & Goldberg, C. S. (2010). **Estimating population size using capt
 
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
 
+Reich, B. J., & Gardner, B. (2014). **A spatial capture-recapture model for territorial species**. Environmetrics, 1–9. Retrieved from http://arxiv.org/abs/1405.1976
+
+Rowcliffe, J. M., Field, J., Turvey, S. T., & Carbone, C. (2008). **Estimating animal density using camera traps without the need for individual recognition**. Journal of Applied Ecology, 45(4), 1228–1236. http://doi.org/10.1111/j.1365-2664.2008.01473.x
+
+Royle, J. A. (2004). **N-mixture models for estimating population size from spatially replicated counts**. Biometrics, 60(March), 108–115. Retrieved from https://classes.warnercnr.colostate.edu/bayes-workshop/files/2013/04/Royle_Biometrics_2004.pdf
+
+Royle, J. A. (2004). **Generalized estimators of avian abundance from count survey data**. Animal Biodiversity and Conservation, 27(1), 375–386. Retrieved from http://abc.museucienciesjournals.cat/volum-27-1-2004-abc/generalized-estimators-of-avian-abundance-from-count-survey-data/?lang=en
+
 Royle, J. A., & Young, K. V. (2008). **A hierarchical model for spatial capture recapture data**. Ecology, 89(8), 2281–2289. http://doi.org/10.1890/07-0601.1
 
 Royle, A., Nichols, J. D., Karanth, K. U., & Gapalaswamy, A. M. (2009). **A hierarchical model for estimating density in camera-trap studies**. Journal of Applied Ecology, 46, 118–127. [http://doi.org/10.1111/j.1365-2664.2008.01578.x](http://doi.org/10.1111/j.1365-2664.2008.01578.x)
+
+Royle, J. A., Karanth, K. U., Gopalaswamy, A. M., & Kumar, N. S. (2009). **Bayesian inference in camera trapping studies for a class of spatial capture-recapture models**. Ecology, 90(11), 3233–3244. http://doi.org/10.1890/08-1481.1
+
+Royle, J. A. (2009). **Analysis of capture-recapture models with individual covariates using data augmentation**. Biometrics, 65(1), 267–274. http://doi.org/10.1111/j.1541-0420.2008.01038.x
+
+Royle, J. A., Kéry, M., & Guélat, J. (2011). **Spatial capture-recapture models for search-encounter data**. Methods in Ecology and Evolution, 2(6), 602–611. http://doi.org/10.1111/j.2041-210X.2011.00116.x
+
+Royle, J. A., & Dorazio, R. M. (2012). **Parameter-expanded data augmentation for Bayesian analysis of capture-recapture models**. Journal of Ornithology, 152(SUPPL. 2), 521–537. http://doi.org/10.1007/s10336-010-0619-4
+
+Royle, J. A., Chandler, R. B., Yackulic, C., & Nichols, J. D. (2012). **Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions**. Methods in Ecology and Evolution, 3(3), 545–554. http://doi.org/10.1111/j.2041-210X.2011.00182.x
+
+
+Royle, J. A., Chandler, R. B., Gazenski, K. D., & Graves, T. A. (2013). **Spatial capture-recapture models for jointly estimating population density and landscape connectivity**. Ecology, 94(2), 287–294. http://doi.org/10.1890/12-0413.1
+
+Royle, J. A., Chandler, R. B., Sun, C. C., & Fuller, A. K. (2013). **Integrating resource selection information with spatial capture-recapture**. Methods in Ecology and Evolution, 4(6), 520–530. http://doi.org/10.1111/2041-210X.12039
+
+Royle, J. A., & Converse, S. J. (2014). **Hierarchical spatial capture-recapture models: Modelling population density in stratified populations**. Methods in Ecology and Evolution, 5(1), 37–43. http://doi.org/10.1111/2041-210X.12135
+
+Royle, J. A., Chandler, R. B., Sun, C. C., & Fuller, A. K. (2014). **Reply to Efford on “Integrating resource selection information with spatial capture-recapture”**. Methods in Ecology and Evolution, 5(7), 603–605. http://doi.org/10.1111/2041-210X.12205
+
+Royle, J. A., Fuller, A. K., & Sutherland, C. (2016). **Spatial capture–recapture models allowing Markovian transience or dispersal**. Population Ecology, 58(1), 53–62. http://doi.org/10.1007/s10144-015-0524-z
 
 Sollmann, R., Tôrres, N. M., Furtado, M. M., De Almeida Jácomo, A. T., Palomares, F., Roques, S., & Silveira, L. (2013). **Combining camera-trapping and noninvasive genetic data in a spatial capture-recapture framework improves density estimates for the jaguar**. Biological Conservation, 167, 242–247. http://doi.org/10.1016/j.biocon.2013.08.003
 
@@ -190,6 +219,12 @@ Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using cap
 Pesenti, E., & Zimmermann, F. (2013). **Density estimations of the Eurasian lynx (<i>Lynx lynx</i>) in the Swiss Alps**. Journal of Mammalogy, 94(1), 73–81. http://doi.org/10.1644/11-MAMM-A-322.1
 
 Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key Largo woodrat abundance using spatially explicit capture-recapture and trapping point transects**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.651
+
+Rich, L. N., Kelly, M. J., Sollmann, R., Noss, A. J., Maffei, L., Arispe, R. L., … Di Bitetti, M. S. (2014). **Comparing capture–recapture, mark–resight, and spatial mark–resight models for estimating puma densities via camera traps**. Journal of Mammalogy, 95(2), 382–391. http://doi.org/10.1644/13-MAMM-A-126
+
+Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Schooley, R. L., & Rodgers, W. (2014). **Comparison of noninvasive genetics and camera trapping for estimating population density of ocelots (_Leopardus pardalis_) on Barro Colorado Island, Panama**. Tropical Conservation Science, 777(444), 690–705. Retrieved from www.tropicalconservationscience.org
+
+Royle, J. A., Magoun, A. J., Gardner, B., Valkenburg, P., & Lowell, R. E. (2011). **Density estimation in a wolverine population using spatial capture-recapture models**. Journal of Wildlife Management, 75(3), 604–611. http://doi.org/10.1002/jwmg.79
 
 Sugimoto, T., Nagata, J., Aramilev, V. V., & McCullough, D. R. (2012). **Population size estimation of Amur tigers in Russian Far East using noninvasive genetic samples**. Journal of Mammalogy, 93(1), 93–101. http://doi.org/10.1644/10-MAMM-A-368.1
 
