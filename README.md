@@ -34,6 +34,8 @@ Royle, J. A., Chandler, R. B., Sollman, R., Gardner, B. (2013). **scrbook R pack
 
 Royle, J. A., Karanth, K. U., Gopalaswamy,  A. M., Kumar, N. S. (2009). **SCRbayes R package**. https://sites.google.com/site/spatialcapturerecapture/scrbayes-r-package
 
+Swinnen, K. R. R., Reijniers, J., Breno, M., & Leirs, H. (2014). **A novel method to reduce time investment when processing videos from camera trap studies**. PloS One, 9(2), e98881. http://doi.org/10.1371/journal.pone.0098881
+
 # Papers
 ## Methodological
 
@@ -184,7 +186,11 @@ Wilson, K. R., & Anderson, D. R. (1985). **Evaluation of a density estimator bas
 
 Wilson, K. R., & Anderson, D. R. (1985). **Evaluation of two density estimators of small mammal population size**. Journal of Mammalogy, 66(1), 13–21. http://doi.org/10.2307/1380951
 
+Thompson, C. M., Royle, J. A., & Garner, J. D. (2012). **A framework for inference about carnivore density from unstructured spatial sampling of scat using detector dogs**. Journal of Wildlife Management, 76(4), 863–871. http://doi.org/10.1002/jwmg.317
+
 Tioli, S., Cagnacci, F., Stradiotto, A., & Rizzoli, A. (2009). **Edge effect on density estimates of a radiotracked population of yellow-necked mice**. The Journal of Wildlife Management, 73(2), 184–190. http://doi.org/10.2193/2007-324
+
+Wiegand, T., Revilla, E., & Knauer, F. (2004). **Dealing with uncertainty in spatially explicit population models**. Biodiversity and Conservation, 13(1), 53–78. http://doi.org/10.1023/B:BIOC.0000004313.86836.ab
 
 Xu, C., Sun, D., & He, C. (2014). **Objective Bayesian analysis for a capture-recapture model**. Annals of the Institute of Statistical Mathematics, 66(2), 245–278. http://doi.org/10.1007/s10463-013-0413-1
 
@@ -226,6 +232,16 @@ Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Sc
 
 Royle, J. A., Magoun, A. J., Gardner, B., Valkenburg, P., & Lowell, R. E. (2011). **Density estimation in a wolverine population using spatial capture-recapture models**. Journal of Wildlife Management, 75(3), 604–611. http://doi.org/10.1002/jwmg.79
 
+Russell, R. E., Royle, J. A., Desimone, R., Schwartz, M. K., Edwards, V. L., Pilgrim, K. P., & McKelvey, K. S. (2012). **Estimating abundance of mountain lions from unstructured spatial sampling**. Journal of Wildlife Management, 76(8), 1551–1561. http://doi.org/10.1002/jwmg.412
+
+Sarmento, P., Cruz, J., Eira, C., & Fonseca, C. (2014). **A spatially explicit approach for estimating space use and density of common genets Portugal**. Animal Biodiversity and Conservation, 37(1), 23–33. Retrieved from http://www.raco.cat/index.php/ABC/article/view/278388
+
+Selvan, K. M., Lyngdoh, S., Habib, B., & Gopi, G. V. (2014). **Population density and abundance of sympatric large carnivores in the lowland tropical evergreen forest of Indian Eastern Himalayas**. Mammalian Biology - Zeitschrift Für Säugetierkunde, 79(4), 254–258. http://doi.org/10.1016/j.mambio.2014.03.002
+
+Sharma, R. K., Jhala, Y., Qureshi, Q., Vattakaven, J., Gopal, R., & Nayak, K. (2010). **Evaluating capture-recapture population and density estimation of tigers in a population with known parameters**. Animal Conservation, 13(1), 94–103. http://doi.org/10.1111/j.1469-1795.2009.00305.x
+
+Spehar, S. N., Loken, B., Rayadin, Y., & Royle, J. A. (2015). **Comparing spatial capture-recapture modeling and nest count methods to estimate orangutan densities in the Wehea Forest, East Kalimantan, Indonesia**. Biological Conservation, 191(February 2016), 185–193. http://doi.org/10.1016/j.biocon.2015.06.013
+
 Sugimoto, T., Nagata, J., Aramilev, V. V., & McCullough, D. R. (2012). **Population size estimation of Amur tigers in Russian Far East using noninvasive genetic samples**. Journal of Mammalogy, 93(1), 93–101. http://doi.org/10.1644/10-MAMM-A-368.1
 
 Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with camera traps: Problems with current designs and recommendations for future studies**. Biological Conservation, 159, 109–118. http://doi.org/10.1016/j.biocon.2012.12.009
@@ -233,5 +249,9 @@ Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with cam
 Trolle, M., & Kéry, M. (2003). **Estimation of ocelot density in the Pantanal using capture-recapture analysis of camera-trapping data**. Journal of Mammalogy, 84(2), 607–614. http://doi.org/10.1644/1545-1542(2003)084<0607:EOODIT>2.0.CO;2
 
 Villela, D. A. M., Codeço, C. T., Figueiredo, F., Garcia, G. A., Maciel-de-Freitas, R., & Struchiner, C. J. (2015). **A Bayesian hierarchical model for estimation of abundance and spatial density of *Aedes aegypti***. PLoS ONE, 10(4), e0123794. http://doi.org/10.1371/journal.pone.0123794
+
+Waits, L. P., & Paetkau, D. (2005). **Noninvasive Genetic Sampling Tools for Wildlife Biologists: a Review of Applications and Recommendations for Accurate Data Collection**. Journal of Wildlife Management, 69(4), 1419–1433. http://doi.org/10.2193/0022-541X(2005)69[1419:NGSTFW]2.0.CO;2
+
+Whittington, J., & Sawaya, M. A. (2015). **A comparison of grizzly bear demographic parameters estimated from non-spatial and spatial open population capture-recapture models**. PLoS ONE, 10(7), e0134446. http://doi.org/10.1371/journal.pone.0134446
 
 Xiao, W., Feng, L., Mou, P. Miquelle, D. G., Hebblewhite, M., Goldberg, J. F., Robinson, H. S., Zhao, X., Zhou, B., Wang, T., Ge, J. (2016) **Estimating abundance and density of Amur tigers along the Sino-Russian border** [http://dx.doi.org/10.1111/1749-4877.12210](http://dx.doi.org/10.1111/1749-4877.12210)
