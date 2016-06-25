@@ -22,6 +22,8 @@ Laake, J.L. (2013). **RMark: An R Interface for Analysis of Capture-Recapture Da
 
 McClintock, B. T. (2015). **Multimark: An R package for analysis of capture-recapture data consisting of multiple “noninvasive” marks**. Ecology and Evolution, 5(21), 4920–4931. http://doi.org/10.1002/ece3.1676
 
+Morehouse, A. T., & Boyce, M. S. (2016). **Grizzly bears without borders: Spatially explicit capture-recapture in southwestern Alberta**. The Journal of Wildlife Management. http://doi.org/10.1002/jwmg.21104
+
 Moya, Ó., Mansilla, P.-L., Madrazo, S., Igual, J.-M., Rotger, A., Romano, A., & Tavecchia, G. (2015). **APHIS: A new software for photo-matching in ecological studies**. Ecological Informatics, 27, 64–70. http://doi.org/10.1016/j.ecoinf.2015.03.003
 
 Muscarella, R., Galante, P. J., Soley-Guardia, M., Boria, R. A., Kass, J. M., Uriarte, M., & Anderson, R. P. (2014). **ENMeval: An R package for conducting spatially independent evaluations and estimating optimal model complexity for Maxent ecological niche models**. Methods in Ecology and Evolution, 5(11), 1198–1205. http://doi.org/10.1111/2041-210X.12261
