@@ -107,6 +107,8 @@ Gerber, B. D., & Parmenter, R. R. (2015). **Spatial capture-recapture model perf
 
 Gimenez, O., Choquet, R., Lamor, L., Scofield, P., Fletcher, D., Lebreton, J.-D., & Pradel, R. (2005). **Efficient profile-likelihood confidence intervals for capture-recapture models**. Journal of Agricultural, Biological, and Environmental Statistics, 10(2), 184–196. http://doi.org/10.1198/108571105X46462
 
+Hanks, E. M., Hooten, M. B., Knick, S. T., Oyler-McCance, S. J., Fike, J. A., Cross, T. B., & Schwartz, M. K. (2016). **Latent spatial models and sampling design for landscape genetics**. The Annals of Applied Statistics, 10(2), 1041–1062. http://doi.org/10.1214/16-AOAS929
+
 Haynes, K. J., & Cronin, J. T. (2006). **Interpatch movement and edge effects: The role of behavioral responses to the landscape matrix.** Oikos, 113(1), 43–54. [http://doi.org/10.1111/j.0030-1299.2006.13977.x](http://doi.org/10.1111/j.0030-1299.2006.13977.x)
 
 Ivan, J. S., White, G. C., & Shenk, T. M. (2013). **Using auxiliary telemetry information to estimate animal density from capture-recapture data**. Ecology, 94(4), 809–816. http://doi.org/10.1890/12-0101.1
