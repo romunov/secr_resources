@@ -210,11 +210,15 @@ Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat po
 
 Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
 
+Blanc, L., Marboutin, E., Gatti, S., & Gimenez, O. (2013). **Abundance of rare and elusive species: Empirical investigation of closed versus spatially explicit capture-recapture models with lynx as a case study**. Journal of Wildlife Management, 77(2), 372–378. http://doi.org/10.1002/jwmg.453
+
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
 
 Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
 
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
+
+Fuller, A. K., Sutherland, C. S., Royle, J. A., & Hare, M. P. (2015). **Estimating population density and connectivity of American mink using spatial capture-recapture**. Ecological Applications, 26(4), 15–0315.1. http://doi.org/10.1890/15-0315.1
 
 Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
 
