@@ -210,6 +210,8 @@ Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat po
 
 Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
 
+Beausoleil, R. A., Clark, J. D., & Maletzke, B. T. (2016). **A long-term evaluation of biopsy darts and DNA to estimate cougar density: An agency-citizen science collaboration**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.675
+
 Blanc, L., Marboutin, E., Gatti, S., & Gimenez, O. (2013). **Abundance of rare and elusive species: Empirical investigation of closed versus spatially explicit capture-recapture models with lynx as a case study**. Journal of Wildlife Management, 77(2), 372–378. http://doi.org/10.1002/jwmg.453
 
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
