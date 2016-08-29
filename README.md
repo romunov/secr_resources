@@ -149,7 +149,6 @@ Royle, J. A., & Dorazio, R. M. (2012). **Parameter-expanded data augmentation fo
 
 Royle, J. A., Chandler, R. B., Yackulic, C., & Nichols, J. D. (2012). **Likelihood analysis of species occurrence probability from presence-only data for modelling species distributions**. Methods in Ecology and Evolution, 3(3), 545–554. http://doi.org/10.1111/j.2041-210X.2011.00182.x
 
-
 Royle, J. A., Chandler, R. B., Gazenski, K. D., & Graves, T. A. (2013). **Spatial capture-recapture models for jointly estimating population density and landscape connectivity**. Ecology, 94(2), 287–294. http://doi.org/10.1890/12-0413.1
 
 Royle, J. A., Chandler, R. B., Sun, C. C., & Fuller, A. K. (2013). **Integrating resource selection information with spatial capture-recapture**. Methods in Ecology and Evolution, 4(6), 520–530. http://doi.org/10.1111/2041-210X.12039
@@ -239,6 +238,8 @@ Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key
 Rich, L. N., Kelly, M. J., Sollmann, R., Noss, A. J., Maffei, L., Arispe, R. L., … Di Bitetti, M. S. (2014). **Comparing capture–recapture, mark–resight, and spatial mark–resight models for estimating puma densities via camera traps**. Journal of Mammalogy, 95(2), 382–391. http://doi.org/10.1644/13-MAMM-A-126
 
 Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Schooley, R. L., & Rodgers, W. (2014). **Comparison of noninvasive genetics and camera trapping for estimating population density of ocelots (_Leopardus pardalis_) on Barro Colorado Island, Panama**. Tropical Conservation Science, 777(444), 690–705. Retrieved from www.tropicalconservationscience.org
+
+Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). *Habitat associations in a recolonizing , low- ­ density black bear population*. Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
 
 Royle, J. A., Magoun, A. J., Gardner, B., Valkenburg, P., & Lowell, R. E. (2011). **Density estimation in a wolverine population using spatial capture-recapture models**. Journal of Wildlife Management, 75(3), 604–611. http://doi.org/10.1002/jwmg.79
 
