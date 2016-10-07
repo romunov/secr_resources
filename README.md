@@ -211,6 +211,8 @@ Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014).
 
 Beausoleil, R. A., Clark, J. D., & Maletzke, B. T. (2016). **A long-term evaluation of biopsy darts and DNA to estimate cougar density: An agency-citizen science collaboration**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.675
 
+Beaver, J. T., Harper, C. A., Muller, L., Basinger, P. S., Goode, M. J., & Van Manen, F. T. (2016). **Current and Spatially Explicit Capture-recapture Analysis Methods for Infrared Triggered Camera Density Estimation of White-tailed Deer**. Journal of the Southeastern Association of Fish and Wildlife Agencies, 3(March), 195–202.
+
 Blanc, L., Marboutin, E., Gatti, S., & Gimenez, O. (2013). **Abundance of rare and elusive species: Empirical investigation of closed versus spatially explicit capture-recapture models with lynx as a case study**. Journal of Wildlife Management, 77(2), 372–378. http://doi.org/10.1002/jwmg.453
 
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
@@ -228,6 +230,8 @@ Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estim
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
+
+Muneza, A. B., Linden, D. W., Montgomery, R. A., Dickman, A. J., Roloff, G. J., Macdonald, D. W., & Fennessy, J. T. (2016). **Examining disease prevalence for species of conservation concern using non-invasive spatial capture-recapture techniques**. Journal of Applied Ecology. http://doi.org/10.1111/1365-2664.12796
 
 Morehouse, A. T., & Boyce, M. S. (2016). **Grizzly bears without borders: Spatially explicit capture-recapture in southwestern Alberta**. The Journal of Wildlife Management. http://doi.org/10.1002/jwmg.21104
 
@@ -268,3 +272,6 @@ Waits, L. P., & Paetkau, D. (2005). **Noninvasive Genetic Sampling Tools for Wil
 Whittington, J., & Sawaya, M. A. (2015). **A comparison of grizzly bear demographic parameters estimated from non-spatial and spatial open population capture-recapture models**. PLoS ONE, 10(7), e0134446. http://doi.org/10.1371/journal.pone.0134446
 
 Xiao, W., Feng, L., Mou, P. Miquelle, D. G., Hebblewhite, M., Goldberg, J. F., Robinson, H. S., Zhao, X., Zhou, B., Wang, T., Ge, J. (2016) **Estimating abundance and density of Amur tigers along the Sino-Russian border** [http://dx.doi.org/10.1111/1749-4877.12210](http://dx.doi.org/10.1111/1749-4877.12210)
+
+## Reports and other sources
+Black Bear Population Size and Density in Apalachicola, Big Cypress, Eglin, Ocala/St. Johns, and Osceola Study Areas, Florida. [link](http://myfwc.com/media/4054764/finalpopulationestimatereport0816.pdf)
