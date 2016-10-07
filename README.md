@@ -247,6 +247,8 @@ Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Sc
 
 Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). *Habitat associations in a recolonizing , low- ­ density black bear population*. Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
 
+Rehnus, M., & Bollmann, K. (2016). **Non-invasive genetic population density estimation of mountain hares (Lepus timidus) in the Alps: systematic or opportunistic sampling?** European Journal of Wildlife Research. http://doi.org/10.1007/s10344-016-1053-6
+
 Royle, J. A., Magoun, A. J., Gardner, B., Valkenburg, P., & Lowell, R. E. (2011). **Density estimation in a wolverine population using spatial capture-recapture models**. Journal of Wildlife Management, 75(3), 604–611. http://doi.org/10.1002/jwmg.79
 
 Russell, R. E., Royle, J. A., Desimone, R., Schwartz, M. K., Edwards, V. L., Pilgrim, K. P., & McKelvey, K. S. (2012). **Estimating abundance of mountain lions from unstructured spatial sampling**. Journal of Wildlife Management, 76(8), 1551–1561. http://doi.org/10.1002/jwmg.412
