@@ -277,3 +277,5 @@ Xiao, W., Feng, L., Mou, P. Miquelle, D. G., Hebblewhite, M., Goldberg, J. F., R
 
 ## Reports and other sources
 Black Bear Population Size and Density in Apalachicola, Big Cypress, Eglin, Ocala/St. Johns, and Osceola Study Areas, Florida. [link](http://myfwc.com/media/4054764/finalpopulationestimatereport0816.pdf)
+
+Walker, Timothy A. (2016) Testing camera trap density estimates from the spatial capture model and calibrated capture rate indices against kangaroo rat (<i>Dipodomys</i> spp.) live trapping data. Master of science thesis [link](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=8289&context=etd_theses)
