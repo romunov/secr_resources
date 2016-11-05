@@ -67,6 +67,8 @@ Davidson, G. A., Clark, D. A., Johnson, B. K., Waits, L. P., & Adams, J. R. (201
 
 Distiller, G., & Borchers, D. L. (2015). **A spatially explicit capture-recapture estimator for single-catch traps**. Ecology and Evolution, 5(21), 5075–5087. http://doi.org/10.1002/ece3.1748
 
+Drewry, J. M., Van Manen, F. T., & Ruth, D. M. (2013). **Density and genetic structure of black bears in coastal South Carolina**. Journal of Wildlife Management, 77(1), 153–164. http://doi.org/10.1002/jwmg.443
+
 Dorazio, R. M. (2013). **Bayes and empirical bayes estimators of abundance and density from spatial capture-recapture data**. PLoS ONE, 8(12), 1–12. http://doi.org/10.1371/journal.pone.0084017
 
 Dorazio, R. M. (2014). **Accounting for imperfect detection and survey bias in statistical analysis of presence-only data**. Global Ecology and Biogeography, n/a–n/a. http://doi.org/10.1111/geb.12216
