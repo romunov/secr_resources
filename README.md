@@ -67,6 +67,8 @@ Davidson, G. A., Clark, D. A., Johnson, B. K., Waits, L. P., & Adams, J. R. (201
 
 Distiller, G., & Borchers, D. L. (2015). **A spatially explicit capture-recapture estimator for single-catch traps**. Ecology and Evolution, 5(21), 5075–5087. http://doi.org/10.1002/ece3.1748
 
+Drewry, J. M., Van Manen, F. T., & Ruth, D. M. (2013). **Density and genetic structure of black bears in coastal South Carolina**. Journal of Wildlife Management, 77(1), 153–164. http://doi.org/10.1002/jwmg.443
+
 Dorazio, R. M. (2013). **Bayes and empirical bayes estimators of abundance and density from spatial capture-recapture data**. PLoS ONE, 8(12), 1–12. http://doi.org/10.1371/journal.pone.0084017
 
 Dorazio, R. M. (2014). **Accounting for imperfect detection and survey bias in statistical analysis of presence-only data**. Global Ecology and Biogeography, n/a–n/a. http://doi.org/10.1111/geb.12216
@@ -245,7 +247,9 @@ Rich, L. N., Kelly, M. J., Sollmann, R., Noss, A. J., Maffei, L., Arispe, R. L.,
 
 Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Schooley, R. L., & Rodgers, W. (2014). **Comparison of noninvasive genetics and camera trapping for estimating population density of ocelots (_Leopardus pardalis_) on Barro Colorado Island, Panama**. Tropical Conservation Science, 777(444), 690–705. Retrieved from www.tropicalconservationscience.org
 
-Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). *Habitat associations in a recolonizing , low- ­ density black bear population*. Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
+Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). **Habitat associations in a recolonizing , low- ­ density black bear population.** Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
+
+Rehnus, M., & Bollmann, K. (2016). **Non-invasive genetic population density estimation of mountain hares (Lepus timidus) in the Alps: systematic or opportunistic sampling?** European Journal of Wildlife Research. http://doi.org/10.1007/s10344-016-1053-6
 
 Royle, J. A., Magoun, A. J., Gardner, B., Valkenburg, P., & Lowell, R. E. (2011). **Density estimation in a wolverine population using spatial capture-recapture models**. Journal of Wildlife Management, 75(3), 604–611. http://doi.org/10.1002/jwmg.79
 
@@ -275,3 +279,5 @@ Xiao, W., Feng, L., Mou, P. Miquelle, D. G., Hebblewhite, M., Goldberg, J. F., R
 
 ## Reports and other sources
 Black Bear Population Size and Density in Apalachicola, Big Cypress, Eglin, Ocala/St. Johns, and Osceola Study Areas, Florida. [link](http://myfwc.com/media/4054764/finalpopulationestimatereport0816.pdf)
+
+Walker, Timothy A. (2016) Testing camera trap density estimates from the spatial capture model and calibrated capture rate indices against kangaroo rat (<i>Dipodomys</i> spp.) live trapping data. Master of science thesis [link](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=8289&context=etd_theses)
