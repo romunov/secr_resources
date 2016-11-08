@@ -1,0 +1,89 @@
+---
+title: "Simulacija ulova in ponovnega ulova"
+author: "Roman Luštrik"
+date: "8.11.2016"
+output: html_notebook
+---
+
+Najprej naložimo pakete, ki jih bomo potrebovali. `Rcapture` nam bo pomagal oceniti velikost populacije na podlagi videnja/nevidenja osebka, `ggplot2` pa je paket za risanje.
+```{r}
+library(Rcapture)
+library(ggplot2)
+```
+
+Najprej si poglejmo enostaven primer. Simuliramo populacijo medvedov, ki šteje 150 osebkov, ki jih bomo odlavljali v treh odlovnih intervalih z verjetnostjo posameznega ulova 0.2. Predpostavka je, da je populacija zaprta, da so oznake unikatne in stalne (se ne izgubijo), da ima vsaka žival enako možnost, da jo ujamemo in da so odlovi med seboj neodvisni. Temu rečemo tudi model M0. Model Mh bi predvideval, da imajo vsi osebki med seboj različno verjetnosti za ulov (katerih pa ne vemo).
+
+```{r}
+N <- 150
+k <- 3
+p <- 0.2
+
+set.seed(357)
+
+xy <- sapply(X = 1:N, FUN = function(x, k, p) {
+  rbinom(n = k, size = 1, prob = p)
+}, p = p, k = k, simplify = FALSE)
+
+xy <- do.call(rbind, xy)
+
+# odstranimo nikoli videne osebke, ker... jih pač uradno nismo zaznali
+xy <- xy[rowSums(xy) > 0, ]
+```
+Naši podatki izgledajo takole:
+
+```{r}
+head(xy)
+```
+
+kjer so vrstice živali, stolpci pa ali je bila dotična žival v danem odlovnem intervalu ujeta. Odstranili smo `r 150 - nrow(xy)` živali, ki jih nismo videli, naš vzorec pa ima `r nrow(xy)` osebkov, ki smo jih ujeli vsaj enkrat.
+
+S pomočjo naslednje funkcije ocenimo velikost populacije. Funkcija nam da rezultat za več modelov, statistike pa poleg abundance vsebujejo še bolj pomemben podatek, ki je standardna deviacija. S pomočjo tega lahko izračunamo v kakšnem rangu se giba pravo število živali. Ker so to simulirani podatki je to trivialen podatek. V pravi študiji je to edini merodajni podatek, na podlagi katerega se lahko odreja odločevalske rešitve.
+
+```{r}
+closedp(X = xy)
+```
+
+Model M0 predpostavlja kar smo opisali v zgornjem odstavku (enaka verjetnost ulovljivosti vseh osebkov...) in je za nas najbolj merodajen. Na podlagi AIC kriterija bi bil v tem primeru primerljiv še model Mh Chao. Rezultat, ki ga dobimo kaže, da je naša ocena med `r round(151.5 - 1.96 * 27.3)` in `r round(151.5 + 1.96 * 27.3)` medvedov (95% interval zaupanja). Srednja vrednost je torej okoli 150, kar nam namiguje, da metoda deluje, saj smo simulirali 150 živali. Ker v naravi ne vemo pravega števila, je pomembno vedeti interval. Manjši kot je, bolj smo lahko prepričani v oceno. Druga možnost je še, da je vzorčenje tako pristransko, da nam da izkrivljen rezultat.
+
+# Simulacija večih parametrov
+
+Poglejmo si simulacijo, kjer so pogoji podobni kot v prejšnjem primeru, s to razliko, da spreminjamo verjetnost ulovljivosti in število odlovnih intervalov. Tako bomo lahko videli vpliv teh dveh spremenljivk na srednjo vrednost in širino intervala.
+
+```{r}
+set.seed(357)
+
+N <- 500
+k <- 1:5
+p <- seq(from = 0.1, to = 0.5, length.out = 5)
+sim.grid <- expand.grid(k = k, p = p)
+
+out <- vector("list", nrow(sim.grid))
+
+for(i in 1:nrow(sim.grid)) {
+  xy <- sapply(X = 1:N, FUN = function(x, k, p) {
+    rbinom(n = k, size = 1, prob = p)
+  }, p = sim.grid[i, "p"], k = sim.grid[i, "k"], simplify = FALSE)
+  
+  xy <- do.call(rbind, xy)
+  xy <- xy[rowSums(xy) > 0, ]
+  
+  rslt <-  tryCatch(closedp(X = xy)$results["M0", ],
+           error = function(e) "somethingWrong")
+  out[[i]] <- c(rslt, p = sim.grid[i, "p"], k = sim.grid[i, "k"])
+}
+out <- out[sapply(out, length) == 9]
+
+xy <- as.data.frame(do.call(rbind, out))
+
+xy$lci <- with(xy, abundance - 1.96 * stderr)
+xy$uci <- with(xy, abundance + 1.96 * stderr)
+head(xy)
+
+ggplot(xy, aes(x = p, y = abundance)) +
+  theme_bw() +
+  geom_pointrange(aes(ymin = lci, ymax = uci)) +
+  geom_hline(yintercept = 500) +
+  facet_grid(~ k)
+```
+
+Izgleda, da se s številom odlovnih dni in z večanjem verjetnosti ulovljivosti interval zaupanja manjša, srednja vrednost pa ostaja bolj ali manj nespremenjena. Po razmisleku lahko sklenemo, da s tem, ko bolj verjetno ujamemo žival (preko večje ulovljivosti ali pa več odlovnih dni), bolj spoznamo populacijo in lahko tako bolj natančno ocenimo velikost le-te. Ti in drugi faktorji so pomembni pri načrtovanju študij, kjer se pa spopadamo s problemi kot je število osebja, ki nam je na voljo, velikost vzorčnega območja, časa s katerim razpolagamo in nenazadnje glede na finančne zmožnosti.
