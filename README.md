@@ -235,6 +235,8 @@ Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using cap
 
 Muneza, A. B., Linden, D. W., Montgomery, R. A., Dickman, A. J., Roloff, G. J., Macdonald, D. W., & Fennessy, J. T. (2016). **Examining disease prevalence for species of conservation concern using non-invasive spatial capture-recapture techniques**. Journal of Applied Ecology. http://doi.org/10.1111/1365-2664.12796
 
+Mollet, P., Kéry, M., Gardner, B., Pasinelli, G., & Royle, J. A. (2015). **Estimating population size for capercaillie (Tetrao urogallus L.) with spatial capture-recapture models based on genotypes from one field sample**. PLoS ONE, 10(6), 1–16. http://doi.org/10.1371/journal.pone.0129020
+
 Morehouse, A. T., & Boyce, M. S. (2016). **Grizzly bears without borders: Spatially explicit capture-recapture in southwestern Alberta**. The Journal of Wildlife Management. http://doi.org/10.1002/jwmg.21104
 
 Murphy, S. M., Cox, J. J., Augustine, B. C., Hast, J. T., Guthrie, J. M., Wright, J., … Plaxico, J. H. (2016). **Characterizing recolonization by a reintroduced bear population using genetic spatial capture-recapture.** The Journal of Wildlife Management, 1–18. http://doi.org/10.1002/jwmg.21144
