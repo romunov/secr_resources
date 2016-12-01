@@ -6,6 +6,8 @@ Royle, J. A., Chandler, R. B., Sollmann, R., Gardner, B. (2013). **Spatial mark-
 Williams, B., Nichols, J., & Conroy, M. (2002). **Analysis and management of animal populations. Modeling, estimation, and decision making**. Academic press. Retrieved from http://www.elsevier.com/books/analysis-and-management-of-animal-populations/williams/978-0-12-754406-9
 
 # (R) resources
+Augistine, B. and Royle, A. (2016) **SPIM: Open population SCR MCMC sampler**. [R package available on GitHub](https://github.com/benaug/SPIM)
+
 Cox, M. J., Borcher, D. L., Kelly, N., Borchers, D. L., & Kelly, N. (2013). **nupoint: An R package for density estimation from point transects in the presence of nonuniform animal density**. Methods in Ecology and Evolution, 4(6), 1–18. http://doi.org/10.1111/2041-210X.12058
 
 Efford, M. G., Dawson, D. K., & Robbins, C. S. (2004). **DENSITY: Software for analysing capture-recapture data from passive detector arrays**. Animal Biodiversity and Conservation, 27(1), 217–228. http://doi.org/1
