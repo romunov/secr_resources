@@ -131,6 +131,8 @@ Manning, J. a, & Goldberg, C. S. (2010). **Estimating population size using capt
 
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
 
+Ramsey, D. S. L., Caley, P. A., & Robley, A. (2015). **Estimating population density from presence-absence data using a spatially explicit model**. Journal of Wildlife Management, 79(3), 491–499. http://doi.org/10.1002/jwmg.851
+
 Reich, B. J., & Gardner, B. (2014). **A spatial capture-recapture model for territorial species**. Environmetrics, 1–9. Retrieved from http://arxiv.org/abs/1405.1976
 
 Rowcliffe, J. M., Field, J., Turvey, S. T., & Carbone, C. (2008). **Estimating animal density using camera traps without the need for individual recognition**. Journal of Applied Ecology, 45(4), 1228–1236. http://doi.org/10.1111/j.1365-2664.2008.01473.x
