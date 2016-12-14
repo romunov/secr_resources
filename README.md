@@ -179,6 +179,8 @@ Thompson, C. M., Royle, J. A., & Garner, J. D. (2012). **A framework for inferen
 
 Tallmon, D. A., & Mills, L. S. (2004). **Edge effects and isolation: red-backed voles revisited**. Conservation Biology, 18(6), 1658–1664. [http://doi.org/10.1111/j.1523-1739.2004.00439.x](http://doi.org/10.1111/j.1523-1739.2004.00439.x)
 
+Wilton, C. M., Puckett, E. E., Beringer, J., Gardner, B., Eggert, L. S., & Belant, J. L. (2014). **Trap Array Configuration Influences Estimates and Precision of Black Bear Density and Abundance**. PLoS ONE, 9(10), e111257. http://doi.org/10.1371/journal.pone.0111257
+
 Wilton, C. M., Beringer, J., Puckett, E. E., Eggert, L. S., & Belant, J. L. (2016). **Spatiotemporal factors affecting detection of black bears during noninvasive capture-recapture surveys**. Journal of Mammalogy, 97(1), 266–273. http://doi.org/10.1093/jmammal/gyv176
 
 White, G. C. (2002). **Discussion comments on: The use of auxiliary variables in capture-recapture modelling. An overview**. Journal of Applied Statistics, 29(1-4), 103–106. http://doi.org/10.1080/02664760120108476
