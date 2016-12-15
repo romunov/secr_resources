@@ -279,6 +279,8 @@ Trolle, M., & Kéry, M. (2003). **Estimation of ocelot density in the Pantanal u
 
 Villela, D. A. M., Codeço, C. T., Figueiredo, F., Garcia, G. A., Maciel-de-Freitas, R., & Struchiner, C. J. (2015). **A Bayesian hierarchical model for estimation of abundance and spatial density of *Aedes aegypti***. PLoS ONE, 10(4), e0123794. http://doi.org/10.1371/journal.pone.0123794
 
+Villette, P., Krebs, C. J., & Jung, T. S. (2017). **Evaluating camera traps as an alternative to live trapping for estimating the density of snowshoe hares (<i>Lepus americanus</i>) and red squirrels (<i>Tamiasciurus hudsonicus</i>)**. European Journal of Wildlife Research, 63(1), 7. http://doi.org/10.1007/s10344-016-1064-3
+
 Waits, L. P., & Paetkau, D. (2005). **Noninvasive Genetic Sampling Tools for Wildlife Biologists: a Review of Applications and Recommendations for Accurate Data Collection**. Journal of Wildlife Management, 69(4), 1419–1433. http://doi.org/10.2193/0022-541X(2005)69[1419:NGSTFW]2.0.CO;2
 
 Whittington, J., & Sawaya, M. A. (2015). **A comparison of grizzly bear demographic parameters estimated from non-spatial and spatial open population capture-recapture models**. PLoS ONE, 10(7), e0134446. http://doi.org/10.1371/journal.pone.0134446
