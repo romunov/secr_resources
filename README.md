@@ -227,6 +227,8 @@ Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating th
 
 Fuller, A. K., Sutherland, C. S., Royle, J. A., & Hare, M. P. (2015). **Estimating population density and connectivity of American mink using spatial capture-recapture**. Ecological Applications, 26(4), 15–0315.1. http://doi.org/10.1890/15-0315.1
 
+Granjon, A.-C., Rowney, C., Vigilant, L., & Langergraber, K. E. (2016). **Evaluating genetic capture-recapture using a chimpanzee population of known size**. The Journal of Wildlife Management. http://doi.org/10.1002/jwmg.21190
+
 Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
 
 Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estimation of tiger densities in the tropical dry forests of Panna, Central India, using photographic capture–recapture sampling**. Animal Conservation, 7(3), 285–290. http://doi.org/10.1017/S1367943004001477
