@@ -131,6 +131,8 @@ Manning, J. a, & Goldberg, C. S. (2010). **Estimating population size using capt
 
 Marucco, F., Boitani, L., Pletscher, D. H., & Schwartz, M. K. (2011). **Bridging the gaps between non-invasive genetic sampling and population parameter estimation**. European Journal of Wildlife Research, 57, 1–13. [http://doi.org/10.1007/s10344-010-0477-7](http://doi.org/10.1007/s10344-010-0477-7)
 
+Ramsey, D. S. L., Caley, P. A., & Robley, A. (2015). **Estimating population density from presence-absence data using a spatially explicit model**. Journal of Wildlife Management, 79(3), 491–499. http://doi.org/10.1002/jwmg.851
+
 Reich, B. J., & Gardner, B. (2014). **A spatial capture-recapture model for territorial species**. Environmetrics, 1–9. Retrieved from http://arxiv.org/abs/1405.1976
 
 Rowcliffe, J. M., Field, J., Turvey, S. T., & Carbone, C. (2008). **Estimating animal density using camera traps without the need for individual recognition**. Journal of Applied Ecology, 45(4), 1228–1236. http://doi.org/10.1111/j.1365-2664.2008.01473.x
@@ -176,6 +178,8 @@ Sun, C. C., Fuller, A. K., & Andrew Royle, J. (2014). **Trap configuration and s
 Thompson, C. M., Royle, J. A., & Garner, J. D. (2012). **A framework for inference about carnivore density from unstructured spatial sampling of scat using detector dogs**. Journal of Wildlife Management, 76(4), 863–871. http://doi.org/10.1002/jwmg.317
 
 Tallmon, D. A., & Mills, L. S. (2004). **Edge effects and isolation: red-backed voles revisited**. Conservation Biology, 18(6), 1658–1664. [http://doi.org/10.1111/j.1523-1739.2004.00439.x](http://doi.org/10.1111/j.1523-1739.2004.00439.x)
+
+Wilton, C. M., Puckett, E. E., Beringer, J., Gardner, B., Eggert, L. S., & Belant, J. L. (2014). **Trap Array Configuration Influences Estimates and Precision of Black Bear Density and Abundance**. PLoS ONE, 9(10), e111257. http://doi.org/10.1371/journal.pone.0111257
 
 Wilton, C. M., Beringer, J., Puckett, E. E., Eggert, L. S., & Belant, J. L. (2016). **Spatiotemporal factors affecting detection of black bears during noninvasive capture-recapture surveys**. Journal of Mammalogy, 97(1), 266–273. http://doi.org/10.1093/jmammal/gyv176
 
@@ -276,6 +280,8 @@ Tobler, M. W., & Powell, G. V. N. (2013). **Estimating jaguar densities with cam
 Trolle, M., & Kéry, M. (2003). **Estimation of ocelot density in the Pantanal using capture-recapture analysis of camera-trapping data**. Journal of Mammalogy, 84(2), 607–614. http://doi.org/10.1644/1545-1542(2003)084<0607:EOODIT>2.0.CO;2
 
 Villela, D. A. M., Codeço, C. T., Figueiredo, F., Garcia, G. A., Maciel-de-Freitas, R., & Struchiner, C. J. (2015). **A Bayesian hierarchical model for estimation of abundance and spatial density of *Aedes aegypti***. PLoS ONE, 10(4), e0123794. http://doi.org/10.1371/journal.pone.0123794
+
+Villette, P., Krebs, C. J., & Jung, T. S. (2017). **Evaluating camera traps as an alternative to live trapping for estimating the density of snowshoe hares (<i>Lepus americanus</i>) and red squirrels (<i>Tamiasciurus hudsonicus</i>)**. European Journal of Wildlife Research, 63(1), 7. http://doi.org/10.1007/s10344-016-1064-3
 
 Waits, L. P., & Paetkau, D. (2005). **Noninvasive Genetic Sampling Tools for Wildlife Biologists: a Review of Applications and Recommendations for Accurate Data Collection**. Journal of Wildlife Management, 69(4), 1419–1433. http://doi.org/10.2193/0022-541X(2005)69[1419:NGSTFW]2.0.CO;2
 
