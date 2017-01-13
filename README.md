@@ -55,6 +55,8 @@ Borchers, D. L., & Fewster, R. M. (2013). **Spatial capture-recapture models**. 
 
 Borchers, D., Distiller, G., Foster, R., Harmsen, B., & Milazzo, L. (2014). **Continuous-time spatially explicit capture-recapture models, with an application to a jaguar camera-trap survey**. Methods in Ecology and Evolution, 5(7), 656–665. http://doi.org/10.1111/2041-210X.12196
 
+Borchers, D. L., Stevenson, B. C., Kidney, D., Thomas, L., & Marques, T. A. (2015). **A Unifying Model for Capture–Recapture and Distance Sampling Surveys of Wildlife Populations**. Journal of the American Statistical Association, 110(509), 195–204. http://doi.org/10.1080/01621459.2014.893884
+
 Bozarth, C. A., Gardner, B., Rockwood, L. L., & Jesús, E. (2015). **Using fecal DNA and spatial capture-recapture to characterize a recent coyote colonization**. Northeastern Naturalist, 22(1), 144–162. http://doi.org/10.1656/045.022.0124
 
 Chandler, R. B., Royle, J. A., & King, D. I. (2011). **Inference about density and temporary emigration in unmarked populations**. Ecology, 92(7)(7), 1429–1435. http://doi.org/10.1890/10-2433.1
@@ -225,6 +227,8 @@ Blanc, L., Marboutin, E., Gatti, S., & Gimenez, O. (2013). **Abundance of rare a
 
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
 
+Christiansen, F., Bertulli, C. G., Rasmussen, M. H., & Lusseau, D. (2015). **Estimating cumulative exposure of wildlife to non-lethal disturbance using spatially explicit capture-recapture models**. Journal of Wildlife Management. http://doi.org/10.1002/jwmg.836
+
 Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
 
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
@@ -240,6 +244,8 @@ Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estim
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
 
 Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using capture-recapture encounter histories created from point-coordinate locations of animals**. Methods in Ecology and Evolution, 1(4), 389–397. [http://doi.org/10.1111/j.2041-210X.2010.00041.x](http://doi.org/10.1111/j.2041-210X.2010.00041.x)
+
+Majumder, A., Qureshi, Q., Sankar, K., & Kumar, A. (2017). **Long-term monitoring of a Bengal tiger (<i>Panthera tigris tigris</i>) population in a human-dominated landscape of Central India**. European Journal of Wildlife Research, 63(1), 17. http://doi.org/10.1007/s10344-016-1070-5
 
 Muneza, A. B., Linden, D. W., Montgomery, R. A., Dickman, A. J., Roloff, G. J., Macdonald, D. W., & Fennessy, J. T. (2016). **Examining disease prevalence for species of conservation concern using non-invasive spatial capture-recapture techniques**. Journal of Applied Ecology. http://doi.org/10.1111/1365-2664.12796
 
