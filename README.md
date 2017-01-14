@@ -57,6 +57,8 @@ Borchers, D., Distiller, G., Foster, R., Harmsen, B., & Milazzo, L. (2014). **Co
 
 Borchers, D. L., Stevenson, B. C., Kidney, D., Thomas, L., & Marques, T. A. (2015). **A Unifying Model for Capture–Recapture and Distance Sampling Surveys of Wildlife Populations**. Journal of the American Statistical Association, 110(509), 195–204. http://doi.org/10.1080/01621459.2014.893884
 
+Borchers, D. L., & Marques, T. A. (2017). **From distance sampling to spatial capture–recapture**. AStA Advances in Statistical Analysis. http://doi.org/10.1007/s10182-016-0287-7
+
 Bozarth, C. A., Gardner, B., Rockwood, L. L., & Jesús, E. (2015). **Using fecal DNA and spatial capture-recapture to characterize a recent coyote colonization**. Northeastern Naturalist, 22(1), 144–162. http://doi.org/10.1656/045.022.0124
 
 Chandler, R. B., Royle, J. A., & King, D. I. (2011). **Inference about density and temporary emigration in unmarked populations**. Ecology, 92(7)(7), 1429–1435. http://doi.org/10.1890/10-2433.1
