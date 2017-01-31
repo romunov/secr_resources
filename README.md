@@ -171,6 +171,8 @@ Royle, J. A., Chandler, R. B., Sun, C. C., & Fuller, A. K. (2014). **Reply to Ef
 
 Royle, J. A., Fuller, A. K., & Sutherland, C. (2016). **Spatial capture–recapture models allowing Markovian transience or dispersal**. Population Ecology, 58(1), 53–62. http://doi.org/10.1007/s10144-015-0524-z
 
+Royle, J. A., Fuller, A. K., & Sutherland, C. (2017). **Unifying Population and Landscape Ecology with Spatial Capture-recapture**. bioRxiv, 31. http://doi.org/10.1101/103341
+
 Sollmann, R., Tôrres, N. M., Furtado, M. M., De Almeida Jácomo, A. T., Palomares, F., Roques, S., & Silveira, L. (2013). **Combining camera-trapping and noninvasive genetic data in a spatial capture-recapture framework improves density estimates for the jaguar**. Biological Conservation, 167, 242–247. http://doi.org/10.1016/j.biocon.2013.08.003
 
 Sollmann, R., Gardner, B., & Belant, J. L. (2012). **How does spatial study design influence density estimates from spatial capture-recapture models**? PLoS ONE, 7(4), 1–8. http://doi.org/10.1371/journal.pone.0034575
