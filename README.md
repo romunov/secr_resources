@@ -263,6 +263,8 @@ Morehouse, A. T., & Boyce, M. S. (2016). **Grizzly bears without borders: Spatia
 
 Murphy, S. M., Cox, J. J., Augustine, B. C., Hast, J. T., Guthrie, J. M., Wright, J., … Plaxico, J. H. (2016). **Characterizing recolonization by a reintroduced bear population using genetic spatial capture-recapture.** The Journal of Wildlife Management, 1–18. http://doi.org/10.1002/jwmg.21144
 
+Pirotta, E., Thompson, P. M., Cheney, B., Donovan, C. R., & Lusseau, D. (2015). **Estimating spatial, temporal and individual variability in dolphin cumulative exposure to boat traffic using spatially explicit capture-recapture methods**. Animal Conservation, 18(1), 20–31. http://doi.org/10.1111/acv.12132
+
 Pesenti, E., & Zimmermann, F. (2013). **Density estimations of the Eurasian lynx (<i>Lynx lynx</i>) in the Swiss Alps**. Journal of Mammalogy, 94(1), 73–81. http://doi.org/10.1644/11-MAMM-A-322.1
 
 Potts, J. M., Buckland, S. T., Thomas, L., & Savage, A. (2016). **Estimating Key Largo woodrat abundance using spatially explicit capture-recapture and trapping point transects**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.651
