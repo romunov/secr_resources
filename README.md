@@ -247,6 +247,8 @@ Granjon, A.-C., Rowney, C., Vigilant, L., & Langergraber, K. E. (2016). **Evalua
 
 Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
 
+Jůnek, T., Jůnková Vymyslická, P., Hozdecká, K., & Hejcmanová, P. (2015). **Application of Spatial and Closed Capture-Recapture Models on Known Population of the Western Derby Eland (Taurotragus derbianus derbianus) in Senegal**. PLOS ONE, 10(9), e0136525. http://doi.org/10.1371/journal.pone.0136525
+
 Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estimation of tiger densities in the tropical dry forests of Panna, Central India, using photographic capture–recapture sampling**. Animal Conservation, 7(3), 285–290. http://doi.org/10.1017/S1367943004001477
 
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
