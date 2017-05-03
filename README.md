@@ -14,6 +14,11 @@ Efford, M. G., Dawson, D. K., & Robbins, C. S. (2004). **DENSITY: Software for a
 
 Efford, M. G. (2015). **secr: Spatially explicit capture-recapture models**. R package version 2.10.0. http://CRAN.R-project.org/package=secr
 
+Efford, M. G. (2017). **What could possibly go wrong? Troubleshooting
+spatially explicit capture–recapture models in secr 3.0.** http://www.otago.ac.nz/density/pdfs/secr-troubleshooting.pdf
+
+Efford, M. G. (2017). **A tutorial on fitting spatially explicit capture–recapture models in secr.** http://www.otago.ac.nz/density/pdfs/secr-tutorial.pdf
+
 Fiske, I., Chandler, R. (2011). **unmarked: An R Package for Fitting Hierarchical Models of Wildlife Occurrence and Abundance**. Journal of Statistical Software, 43(10), 1-23. URL http://www.jstatsoft.org/v43/i10/
 
 Gopalaswamy, A. M., Royle, J. A., Hines, J. E., Singh, P., Jathanna, D., Kumar, N. S., & Karanth, K. U. (2012). **Program SPACECAP: Software for estimating animal density using spatially explicit capture-recapture models**. Methods in Ecology and Evolution, 3(6), 1067–1072. http://doi.org/10.1111/j.2041-210X.2012.00241.x
