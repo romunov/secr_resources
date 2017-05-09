@@ -216,6 +216,8 @@ Wiegand, T., Revilla, E., & Knauer, F. (2004). **Dealing with uncertainty in spa
 
 Xu, C., Sun, D., & He, C. (2014). **Objective Bayesian analysis for a capture-recapture model**. Annals of the Institute of Statistical Mathematics, 66(2), 245–278. http://doi.org/10.1007/s10463-013-0413-1
 
+Xue, Y., Fuller, A., Royle, J. A., & Gomes, C. P. (2017). **Dynamic Optimization of Landscape Connectivity Embedding Spatial-Capture-Recapture Information Auto Converge to the Minimal Resistance Path**. Retrieved from http://www.cs.cornell.edu/~yexiang/publications/aaai17_scr_connectivity_xor.pdf
+
 Yang, H., & Huggins, R. (2003). **The estimation of the size of an open population using local estimating equations**. Statistica Sinica, 13, 673–689. [http://www.jstor.org/stable/3695514](http://www.jstor.org/stable/3695514)
 
 Yip, P. S., Zhou, Y., Lin, D. Y., & Fang, X. Z. (1999). **Estimation of population size based on additive hazards models for continuous-time recapture experiments**. Biometrics, 55(3), 904–908. [http://doi.org/10.1111/j.0006-341X.1999.00904.x](http://doi.org/10.1111/j.0006-341X.1999.00904.x)
