@@ -284,6 +284,8 @@ Rich, L. N., Kelly, M. J., Sollmann, R., Noss, A. J., Maffei, L., Arispe, R. L.,
 
 Rodgers, T. W., Giacalone, J., Heske, E. J., Janečka, J. E., Phillips, C. a, Schooley, R. L., & Rodgers, W. (2014). **Comparison of noninvasive genetics and camera trapping for estimating population density of ocelots (_Leopardus pardalis_) on Barro Colorado Island, Panama**. Tropical Conservation Science, 777(444), 690–705. Retrieved from www.tropicalconservationscience.org
 
+Schmidt, B. R., Meier, A., Sutherland, C., & Royle, J. A. (2017). **Spatial capture – recapture analysis of artificial cover board survey data reveals small scale spatial variation in slow-worm Anguis fragilis density**. Royal Society Open Science, 4(9), 170374. https://doi.org/10.1098/rsos.170374
+
 Seymour, A. S., Tarrant, M. R., Gerber, B. D., Sharp, A., Woollam, J., & Cox, R. (2017). **Effects of El Niño on the population dynamics of the Malay civet east of the Wallace line**. Journal of Zoology. http://doi.org/10.1111/jzo.12469
 
 Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). **Habitat associations in a recolonizing , low- ­ density black bear population.** Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
