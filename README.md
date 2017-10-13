@@ -212,6 +212,8 @@ Thompson, C. M., Royle, J. A., & Garner, J. D. (2012). **A framework for inferen
 
 Tioli, S., Cagnacci, F., Stradiotto, A., & Rizzoli, A. (2009). **Edge effect on density estimates of a radiotracked population of yellow-necked mice**. The Journal of Wildlife Management, 73(2), 184–190. http://doi.org/10.2193/2007-324
 
+Tenan, S., Pedrini, P., Bragalanti, N., Groff, C., & Sutherland, C. (2017). **Data integration for inference about spatial processes: A model-based approach to test and account for data inconsistency**. PLOS ONE, 12(10), e0185588. https://doi.org/10.1371/journal.pone.0185588
+
 Wiegand, T., Revilla, E., & Knauer, F. (2004). **Dealing with uncertainty in spatially explicit population models**. Biodiversity and Conservation, 13(1), 53–78. http://doi.org/10.1023/B:BIOC.0000004313.86836.ab
 
 Xu, C., Sun, D., & He, C. (2014). **Objective Bayesian analysis for a capture-recapture model**. Annals of the Institute of Statistical Mathematics, 66(2), 245–278. http://doi.org/10.1007/s10463-013-0413-1
