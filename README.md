@@ -224,6 +224,8 @@ Yang, H., & Huggins, R. (2003). **The estimation of the size of an open populati
 
 Yip, P. S., Zhou, Y., Lin, D. Y., & Fang, X. Z. (1999). **Estimation of population size based on additive hazards models for continuous-time recapture experiments**. Biometrics, 55(3), 904–908. [http://doi.org/10.1111/j.0006-341X.1999.00904.x](http://doi.org/10.1111/j.0006-341X.1999.00904.x)
 
+Zhao, Q., Royle, J. A., & Boomer, G. S. (2017). **Spatially explicit dynamic N-mixture models**. Population Ecology, 1–8. http://doi.org/10.1007/s10144-017-0600-7
+
 Zipkin, E. F., Sillett, T. S., Grant, E. H. C., Chandler, R. B., & Royle, J. A. (2013). **Inferences about population dynamics from count data using multistate models: a comparison to capture-recpature approaches**. Ecology and Evolution, 1–10. [http://doi.org/10.1002/ece3.942](http://doi.org/10.1002/ece3.942)
 
 Zipkin, E. F., Thorson, J. T., See, K., Lynch, H. J., Campbell Grant, E. H., Kanno, Y., … Royle, J. A. (2013). **Modeling structured population dynamics using data from unmarked individuals**. Ecology, 1–10. [http://doi.org/10.1890/13-1131.1](http://doi.org/10.1890/13-1131.1)
