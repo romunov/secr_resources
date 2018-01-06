@@ -78,6 +78,8 @@ Crimmins, S. M., Walleser, L. R., Hertel, D. R., McKann, P. C., Rohweder, J. J.,
 
 Davidson, G. A., Clark, D. A., Johnson, B. K., Waits, L. P., & Adams, J. R. (2014). **Estimating cougar densities in northeast Oregon using conservation detection dogs**. The Journal of Wildlife Management, 78(6), 1104–1114. http://doi.org/10.1002/jwmg.758
 
+Dey, S., Delampady, M., Karanth, K. U., & Gopalaswamy, A. M. (2017). **A spatially explicit capture recapture model for partially identified individuals when trap detection rate is less than one**. Biometrics, 0, 1–25. Retrieved from https://arxiv.org/pdf/1712.10035.pdf
+
 Distiller, G., & Borchers, D. L. (2015). **A spatially explicit capture-recapture estimator for single-catch traps**. Ecology and Evolution, 5(21), 5075–5087. http://doi.org/10.1002/ece3.1748
 
 Drewry, J. M., Van Manen, F. T., & Ruth, D. M. (2013). **Density and genetic structure of black bears in coastal South Carolina**. Journal of Wildlife Management, 77(1), 153–164. http://doi.org/10.1002/jwmg.443
@@ -133,6 +135,8 @@ Ivan, J. S., White, G. C., & Shenk, T. M. (2013). **Using simulation to compare 
 Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to violations of the closure assumption**. Ecology, 80(8), 2517–2525. Retrieved from http://www.jstor.org/stable/177237
 
 Kéry, M., Gardner, B., Stoeckle, T., Weber, D., & Royle, J. A. (2010). **Use of spatial capture-recapture modeling and DNA data to estimate densities of elusive animals**. Conservation Biology, 25(2), 356–364. http://doi.org/10.1111/j.1523-1739.2010.01616.x
+
+Linden, D. W., Sirén, A. P. K., & Pekins, P. J. (2014). **Integrating telemetry data into spatial capture-recapture modifies inferences on multi-scale resource selection**. bioRxiv, 10(10), 35. http://doi.org/https://doi.org/10.1101/131144
 
 Marques, T. A., Thomas, L., & Royle, J. A. (2011). **A hierarchical model for spatial capture-recapture data: comment**. Ecology, 92(2), 526–528.
 
@@ -263,6 +267,8 @@ Jiménez, J., Higuero, R., Charre-Medellin, J. F., & Acevedo, P. (2017). **Spati
 Jůnek, T., Jůnková Vymyslická, P., Hozdecká, K., & Hejcmanová, P. (2015). **Application of Spatial and Closed Capture-Recapture Models on Known Population of the Western Derby Eland (Taurotragus derbianus derbianus) in Senegal**. PLOS ONE, 10(9), e0136525. http://doi.org/10.1371/journal.pone.0136525
 
 Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estimation of tiger densities in the tropical dry forests of Panna, Central India, using photographic capture–recapture sampling**. Animal Conservation, 7(3), 285–290. http://doi.org/10.1017/S1367943004001477
+
+Linden, D. W., Fuller, A. K., Royle, J. A., & Hare, M. P. (2017). **Examining the occupancy–density relationship for a low-density carnivore**. Journal of Applied Ecology, 54(6), 2043–2052. http://doi.org/10.1111/1365-2664.12883
 
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
 
