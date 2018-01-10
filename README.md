@@ -244,6 +244,8 @@ Beausoleil, R. A., Clark, J. D., & Maletzke, B. T. (2016). **A long-term evaluat
 
 Beaver, J. T., Harper, C. A., Muller, L., Basinger, P. S., Goode, M. J., & Van Manen, F. T. (2016). **Current and Spatially Explicit Capture-recapture Analysis Methods for Infrared Triggered Camera Density Estimation of White-tailed Deer**. Journal of the Southeastern Association of Fish and Wildlife Agencies, 3(March), 195–202.
 
+Berl, J. L., Kellner, K. F., Flaherty, E. A., & Swihart, R. K. (2018). **Spatial Variation in Density of White-footed Mice Along Edges in Fragmented Habitat**. The American Midland Naturalist, 179(1), 38–50. http://doi.org/10.1674/0003-0031-179.1.38
+
 Blanc, L., Marboutin, E., Gatti, S., & Gimenez, O. (2013). **Abundance of rare and elusive species: Empirical investigation of closed versus spatially explicit capture-recapture models with lynx as a case study**. Journal of Wildlife Management, 77(2), 372–378. http://doi.org/10.1002/jwmg.453
 
 Broekhuis, F., & Gopalaswamy, A. M. (2016). **Counting cats: spatially explicit population estimates of cheetah (Acinonyx jubatus) using unstructured sampling data**. PLoS ONE, 11(5), e0153875. http://doi.org/10.1371/journal.pone.0153875
