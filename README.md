@@ -280,6 +280,8 @@ Manning, J. A., & Goldberg, C. S. (2010). **Estimating population size using cap
 
 Majumder, A., Qureshi, Q., Sankar, K., & Kumar, A. (2017). **Long-term monitoring of a Bengal tiger (<i>Panthera tigris tigris</i>) population in a human-dominated landscape of Central India**. European Journal of Wildlife Research, 63(1), 17. http://doi.org/10.1007/s10344-016-1070-5
 
+Morin, D. J., Waits, L. P., McNitt, D. C., & Kelly, M. J. (2018). Efficient single-survey estimation of carnivore density using fecal DNA and spatial capture-recapture: a bobcat case study. Population Ecology, 1–13. http://doi.org/10.1007/s10144-018-0606-9
+
 Moqanaki, E. M., Jiménez, J., & López-Bao, J. V. (2018). **Counting bears in the Iranian Caucasus : Remarkable mismatch between scientifically-sound population estimates and perceptions**. Biological Conservation, 220(February), 182–191. http://doi.org/10.1016/j.biocon.2018.02.016
 
 Muneza, A. B., Linden, D. W., Montgomery, R. A., Dickman, A. J., Roloff, G. J., Macdonald, D. W., & Fennessy, J. T. (2016). **Examining disease prevalence for species of conservation concern using non-invasive spatial capture-recapture techniques**. Journal of Applied Ecology. http://doi.org/10.1111/1365-2664.12796
