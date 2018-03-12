@@ -240,6 +240,8 @@ Zipkin, E. F., Thorson, J. T., See, K., Lynch, H. J., Campbell Grant, E. H., Kan
 
 Anile, S., Ragni, B., Randi, E., Mattucci, F., & Rovero, F. (2014). **Wildcat population density on the Etna volcano, Italy: A comparison of density estimation methods**. Journal of Zoology, 293(4), 252–261. http://doi.org/10.1111/jzo.12141
 
+Arechavala-Lopez, P., Minguito-Frutos, M., Follana-Berná, G., & Palmer, M. (2018). **Common octopus settled in human-altered Mediterranean coastal waters: from individual home-range to population dynamic**. ICES Journal of Marine Science. http://doi.org/10.1093/icesjms/fsy014
+
 Avgan, B., Zimmermann, F., Güntert, M., Arıkan, F., & Breitenmoser, U. (2014). **The first density estimation of an isolated Eurasian lynx population in southwest Asia**. Wildlife Biology, 20(4), 217–221. http://doi.org/10.2981/wlb.00025
 
 Beausoleil, R. A., Clark, J. D., & Maletzke, B. T. (2016). **A long-term evaluation of biopsy darts and DNA to estimate cougar density: An agency-citizen science collaboration**. Wildlife Society Bulletin. http://doi.org/10.1002/wsb.675
