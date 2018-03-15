@@ -260,7 +260,11 @@ Christiansen, F., Bertulli, C. G., Rasmussen, M. H., & Lusseau, D. (2015). **Est
 
 Clare, J. D. J., Anderson, E. M., & MacFarland, D. M. (2015). **Predicting bobcat abundance at a landscape scale and evaluating occupancy as a density index in central Wisconsin**. Journal of Wildlife Management, 79(3), 469–480. http://doi.org/10.1002/jwmg.844
 
+Devens, C., Tshabalala, T., McManus, J., & Smuts, B. (2018). **Counting the spots: The use of a spatially explicit capture-recapture technique and GPS data to estimate leopard (_Panthera pardus_) density in the Eastern and Western Cape, South Africa**. African Journal of Ecology. http://doi.org/10.1111/aje.12512
+
 Dou, H., Yang, H., Feng, L., Mou, P., Wang, T., & Ge, J. (2016). **Estimating the Population Size and Genetic Diversity of Amur Tigers in Northeast China**. PloS One, 11(4), e0154254. http://doi.org/10.1371/journal.pone.0154254
+
+Evans, M. J., Rittenhouse, T. A. G., Hawley, J. E., & Rego, P. W. (2017). **Black bear recolonization patterns in a human-dominated landscape vary based on housing: New insights from spatially explicit density models**. Landscape and Urban Planning, 162, 13–24. http://doi.org/10.1016/J.LANDURBPLAN.2017.01.009
 
 Fuller, A. K., Sutherland, C. S., Royle, J. A., & Hare, M. P. (2015). **Estimating population density and connectivity of American mink using spatial capture-recapture**. Ecological Applications, 26(4), 15–0315.1. http://doi.org/10.1890/15-0315.1
 
