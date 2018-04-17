@@ -354,3 +354,6 @@ Black Bear Population Size and Density in Apalachicola, Big Cypress, Eglin, Ocal
 Walker, Timothy A. (2016) Testing camera trap density estimates from the spatial capture model and calibrated capture rate indices against kangaroo rat (<i>Dipodomys</i> spp.) live trapping data. Master of science thesis [link](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=8289&context=etd_theses)
 
 [web] [WILD8390 R code to simulate common data structures in R and perform MLE from simulated data](https://sites.google.com/site/wild8390/software/simulate)
+
+Smith, Jennifer B. 2018. Context Matters for Black Bears: Evaluating Spatially Explicit Density Estimators and Trade-Offs in Resource Selection. Michigan State University, ProQuest Dissertations Publishing. 10747191
+[link](https://search.proquest.com/openview/09f193505767ffcffcdf8cf37038699b/1?pq-origsite=gscholar&cbl=18750&diss=y)
