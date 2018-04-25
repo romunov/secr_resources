@@ -76,6 +76,8 @@ Chandler, R. B., & Andrew Royle, J. (2013). **Spatially explicit models for infe
 
 Chandler, R. B., & Clark, J. D. (2014). **Spatially explicit integrated population models**. Methods in Ecology and Evolution, 5(12), 1351–1360. http://doi.org/10.1111/2041-210X.12153
 
+Chandler, R. B., Hepinstall-Cymerman, J., Merker, S., Abernathy-Conners, H., & Cooper, R. J. (2018). **Characterizing spatio-temporal variation in survival and recruitment with integrated population models**. The Auk, 135(3), 409–426. http://doi.org/10.1642/AUK-17-181.1
+
 Crimmins, S. M., Walleser, L. R., Hertel, D. R., McKann, P. C., Rohweder, J. J., & Thogmartin, W. E. (2015). **Relating mesocarnivore relative abundance to anthropogenic land-use with a hierarchical spatial count model**. Ecography, (May), n/a–n/a. http://doi.org/10.1111/ecog.01179
 
 Davidson, G. A., Clark, D. A., Johnson, B. K., Waits, L. P., & Adams, J. R. (2014). **Estimating cougar densities in northeast Oregon using conservation detection dogs**. The Journal of Wildlife Management, 78(6), 1104–1114. http://doi.org/10.1002/jwmg.758
