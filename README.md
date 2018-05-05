@@ -140,7 +140,7 @@ Kendall, W. L. (1999). **Robustness of closed capture-recapture methods to viola
 
 Kéry, M., Gardner, B., Stoeckle, T., Weber, D., & Royle, J. A. (2010). **Use of spatial capture-recapture modeling and DNA data to estimate densities of elusive animals**. Conservation Biology, 25(2), 356–364. http://doi.org/10.1111/j.1523-1739.2010.01616.x
 
-Linden, D. W., Sirén, A. P. K., & Pekins, P. J. (2014). **Integrating telemetry data into spatial capture-recapture modifies inferences on multi-scale resource selection**. bioRxiv, 10(10), 35. http://doi.org/https://doi.org/10.1101/131144
+Linden, D. W., Sirén, A. P. K., & Pekins, P. J. (2018). **Integrating telemetry data into spatial capture-recapture modifies inferences on multi-scale resource selection**. Ecosphere, 9(4), e02203. http://doi.org/10.1002/ecs2.2203
 
 Marques, T. A., Thomas, L., & Royle, J. A. (2011). **A hierarchical model for spatial capture-recapture data: comment**. Ecology, 92(2), 526–528.
 
