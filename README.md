@@ -280,6 +280,8 @@ Jůnek, T., Jůnková Vymyslická, P., Hozdecká, K., & Hejcmanová, P. (2015). 
 
 Karanth, K. U., Chundawat, R. S., Nichols, J. D., & Kumar, N. S. (2004). **Estimation of tiger densities in the tropical dry forests of Panna, Central India, using photographic capture–recapture sampling**. Animal Conservation, 7(3), 285–290. http://doi.org/10.1017/S1367943004001477
 
+Kristensen, T. V., & Kovach, A. I. (2018). **Spatially explicit abundance estimation of a rare habitat specialist: implications for SECR study design**. Ecosphere, 9(May), e02217.10.1002. http://doi.org/10.1002/ecs2.2217
+
 Linden, D. W., Fuller, A. K., Royle, J. A., & Hare, M. P. (2017). **Examining the occupancy–density relationship for a low-density carnivore**. Journal of Applied Ecology, 54(6), 2043–2052. http://doi.org/10.1111/1365-2664.12883
 
 Linkie, M., Guillera-Arroita, G., Smith, J., & Rayan, D. M. (2010). **Monitoring tigers with confidence**. Integrative Zoology, 5(4), 342–350. http://doi.org/10.1111/j.1749-4877.2010.00215.x
@@ -319,6 +321,8 @@ Schmidt, B. R., Meier, A., Sutherland, C., & Royle, J. A. (2017). **Spatial capt
 Seymour, A. S., Tarrant, M. R., Gerber, B. D., Sharp, A., Woollam, J., & Cox, R. (2017). **Effects of El Niño on the population dynamics of the Malay civet east of the Wallace line**. Journal of Zoology. http://doi.org/10.1111/jzo.12469
 
 Sollmann, R., Gardner, B., Belant, J. L., Wilton, C. M., & Beringer, J. (2016). **Habitat associations in a recolonizing , low- ­ density black bear population.** Ecosphere, 7(August), 1–11. http://doi.org/10.1002/ecs2.1406
+
+Stetz, J. B., Mitchell, M. S., & Kendall, K. C. (2018). **Using Spatially-Explicit Capture-Recapture Models to Explain Variation in Seasonal Density Patterns of Sympatric Ursids**. Ecography. http://doi.org/10.1111/ecog.03556
 
 Rehnus, M., & Bollmann, K. (2016). **Non-invasive genetic population density estimation of mountain hares (Lepus timidus) in the Alps: systematic or opportunistic sampling?** European Journal of Wildlife Research. http://doi.org/10.1007/s10344-016-1053-6
 
