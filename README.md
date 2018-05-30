@@ -272,6 +272,8 @@ Evans, M. J., Rittenhouse, T. A. G., Hawley, J. E., & Rego, P. W. (2017). **Blac
 
 Fuller, A. K., Sutherland, C. S., Royle, J. A., & Hare, M. P. (2015). **Estimating population density and connectivity of American mink using spatial capture-recapture**. Ecological Applications, 26(4), 15–0315.1. http://doi.org/10.1890/15-0315.1
 
+Goode, M. J., Beaver, J. T., Muller, L. I., Clark, J. D., Manen, F. T. van, Harper, C. A., & Basinger, P. S. (2014). **Capture—recapture of white-tailed deer using DNA from fecal pellet groups**. Wildlife Biology, 20(5), 270–278. http://doi.org/10.2981/wlb.00050
+
 Granjon, A.-C., Rowney, C., Vigilant, L., & Langergraber, K. E. (2016). **Evaluating genetic capture-recapture using a chimpanzee population of known size**. The Journal of Wildlife Management. http://doi.org/10.1002/jwmg.21190
 
 Gopalaswamy, A. M., Royle, J. A., Delampady, M., Nichols, J. D., Karanth, K. U., & Macdonald, D. W. (2012). **Density estimation in tiger populations: combining information for strong inference**. Ecology, 93(7), 1741–1751. http://doi.org/10.1890/11-2110.1
